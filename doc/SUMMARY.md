@@ -1,19 +1,16 @@
 # Table of contents
 
 * [欢迎来到Orisland Cloud](README.md)
-
-## 基本操作指南
-
-* [介绍](ji-ben-cao-zuo-zhi-nan/jie-shao.md)
-* [注意事项](ji-ben-cao-zuo-zhi-nan/zhu-yi-shi-xiang.md)
-
-## 远程桌面指南
-
-* [登陆远程桌面](yuan-cheng-zhuo-mian-zhi-nan/deng-lu-yuan-cheng-zhuo-mian/README.md)
-  * [磁盘扩容](yuan-cheng-zhuo-mian-zhi-nan/deng-lu-yuan-cheng-zhuo-mian/ci-pan-kuo-rong.md)
-
-## 游戏相关教程指南
-
-* [七日杀](you-xi-xiang-guan-jiao-cheng-zhi-nan/qi-ri-sha.md)
-* [我的世界](you-xi-xiang-guan-jiao-cheng-zhi-nan/wo-de-shi-jie.md)
-* [泰拉瑞亚](you-xi-xiang-guan-jiao-cheng-zhi-nan/tai-la-rui-ya.md)
+  * [价格表](huan-ying-lai-dao-orisland-cloud/jia-ge-biao.md)
+  * [配置预览](huan-ying-lai-dao-orisland-cloud/pei-zhi-yu-lan.md)
+  * [注意事项](huan-ying-lai-dao-orisland-cloud/zhu-yi-shi-xiang.md)
+  * [店铺](huan-ying-lai-dao-orisland-cloud/dian-pu.md)
+* [服务器管理与控制](fu-wu-qi-guan-li-yu-kong-zhi/README.md)
+  * [登陆远程桌面](fu-wu-qi-guan-li-yu-kong-zhi/deng-lu-yuan-cheng-zhuo-mian.md)
+  * [磁盘配置](fu-wu-qi-guan-li-yu-kong-zhi/ci-pan-pei-zhi.md)
+  * [密码修改](fu-wu-qi-guan-li-yu-kong-zhi/mi-ma-xiu-gai.md)
+  * [防火墙管理](fu-wu-qi-guan-li-yu-kong-zhi/fang-huo-qiang-guan-li.md)
+* [游戏开服说明](you-xi-kai-fu-shuo-ming/README.md)
+  * [泰拉瑞亚](you-xi-kai-fu-shuo-ming/tai-la-rui-ya.md)
+  * [我的世界](you-xi-kai-fu-shuo-ming/wo-de-shi-jie.md)
+  * [七日杀](you-xi-kai-fu-shuo-ming/qi-ri-sha.md)
