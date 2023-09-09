@@ -1,6 +1,8 @@
 # Table of contents
 
 * [欢迎来到Orisland Cloud](README.md)
+  * [价格表](huan-ying-lai-dao-orisland-cloud/jia-ge-biao.md)
+  * [配置预览](huan-ying-lai-dao-orisland-cloud/pei-zhi-yu-lan.md)
   * [注意事项](huan-ying-lai-dao-orisland-cloud/zhu-yi-shi-xiang/README.md)
     * [价格篇](huan-ying-lai-dao-orisland-cloud/zhu-yi-shi-xiang/jia-ge-pian.md)
     * [网络篇](huan-ying-lai-dao-orisland-cloud/zhu-yi-shi-xiang/wang-luo-pian.md)
@@ -9,8 +11,6 @@
     * [游戏篇](huan-ying-lai-dao-orisland-cloud/zhu-yi-shi-xiang/you-xi-pian.md)
     * [售后篇](huan-ying-lai-dao-orisland-cloud/zhu-yi-shi-xiang/shou-hou-pian.md)
     * [虚拟篇](huan-ying-lai-dao-orisland-cloud/zhu-yi-shi-xiang/xu-ni-pian.md)
-  * [配置预览](huan-ying-lai-dao-orisland-cloud/pei-zhi-yu-lan.md)
-  * [价格表](huan-ying-lai-dao-orisland-cloud/jia-ge-biao.md)
   * [店铺](huan-ying-lai-dao-orisland-cloud/dian-pu.md)
 * [资源站](zi-yuan-zhan.md)
 * [服务器管理与控制](fu-wu-qi-guan-li-yu-kong-zhi/README.md)
