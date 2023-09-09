@@ -1,8 +1,8 @@
 # 登陆远程桌面
 
-下载文件后双击打开即可启动远程桌面。
+下载文件后双击打开即可启动远程桌面，请下载后复制到服务器内，将文件名中的txt修改为bat双击即可打开。
 
-{% file src="../../.gitbook/assets/启动远程桌面.bat" %}
+{% file src="../../.gitbook/assets/启动远程桌面.txt" %}
 
 若此方法无效，请使用下面的方法：
 
@@ -43,3 +43,5 @@
 进入远程桌面如图所示。
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+**请进入**[**密码修改章节**](../mi-ma-xiu-gai.md)**，完成服务器的初始化，请勿省略该步骤。**
