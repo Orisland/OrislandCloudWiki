@@ -1,10 +1,11 @@
 # Table of contents
 
 * [欢迎来到Orisland Cloud](README.md)
-  * [价格表](huan-ying-lai-dao-orisland-cloud/jia-ge-biao.md)
-  * [配置预览](huan-ying-lai-dao-orisland-cloud/pei-zhi-yu-lan.md)
   * [注意事项](huan-ying-lai-dao-orisland-cloud/zhu-yi-shi-xiang.md)
+  * [配置预览](huan-ying-lai-dao-orisland-cloud/pei-zhi-yu-lan.md)
+  * [价格表](huan-ying-lai-dao-orisland-cloud/jia-ge-biao.md)
   * [店铺](huan-ying-lai-dao-orisland-cloud/dian-pu.md)
+* [资源站](zi-yuan-zhan.md)
 * [服务器管理与控制](fu-wu-qi-guan-li-yu-kong-zhi/README.md)
   * [登陆远程桌面](fu-wu-qi-guan-li-yu-kong-zhi/deng-lu-yuan-cheng-zhuo-mian.md)
   * [磁盘配置](fu-wu-qi-guan-li-yu-kong-zhi/ci-pan-pei-zhi.md)
