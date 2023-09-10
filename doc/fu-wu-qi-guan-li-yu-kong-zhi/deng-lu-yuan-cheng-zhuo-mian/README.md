@@ -2,7 +2,7 @@
 
 下载文件后双击打开即可启动远程桌面，请下载后复制到服务器内，将文件名中的txt修改为bat双击即可打开。
 
-{% file src="../../.gitbook/assets/启动远程桌面.txt" %}
+{% file src="../../.gitbook/assets/启动远程桌面.zip" %}
 
 若此方法无效，请使用下面的方法：
 
@@ -29,8 +29,6 @@
 计算机栏目应填入开机ip，请注意ip的组成应为“域名:端口”的形式，其中，域名为一串英文字母，端口为数字，冒号为英文冒号。
 
 用户名必须填写为**Administrator**，不可空置或不填。
-
-全部输入完毕后选择连接按钮。
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
