@@ -26,9 +26,13 @@ description: 本教程用于任何电脑上安装Java环境。
 
 若您需要Java17请单机下面的连接下载：
 
-[安装版](https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-win\_x64.msi)，[压缩版](https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-win\_x64.zip)
+[安装版](https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-win\_x64.msi)，[压缩版](https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-win\_x64.zip)，[Linux版](https://cdn.azul.com/zulu/bin/zulu17.44.53-ca-jre17.0.8.1-linux\_x64.zip)。
 
 若您需要Java8请单机下面的连接下载：
 
-安装版，压缩版，Linux版
+[安装版](https://cdn.azul.com/zulu/bin/zulu8.42.0.21-ca-jre8.0.232-win\_x64.msi)，[压缩版](https://cdn.azul.com/zulu/bin/zulu8.42.0.21-ca-jre8.0.232-win\_x64.zip)，[Linux版](https://cdn.azul.com/zulu/bin/zulu8.42.0.21-ca-jre8.0.232-linux\_x64.tar.gz)。
+
+请注意上述的所有Java下载地址提供的均为X64版本，如果你的系统为arm，macos，或者x32，请到源站寻找对应的Java版本。
+
+{% embed url="https://cdn.azul.com/zulu/bin/" %}
 
