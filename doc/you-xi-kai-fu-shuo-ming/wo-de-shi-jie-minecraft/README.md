@@ -10,16 +10,22 @@ description: 请认准国际版Minecraft，远离“网易版”阉割MC。
 
 在进入教程前，请先为自己的水平做一个相对准确的预估，在教程过程中进行跳跃预览或整体照做。
 
-请注意服务器搭建过程中会对操作进行一些解释，有搭建管理基础或者编程基础的腐竹请跳跃阅读节约时间。\
+请注意服务器搭建过程中会对操作进行一些解释，有搭建管理基础或者编程基础的腐竹请跳跃阅读节约时间。
 
+请根据自身的需要进入对应的页面。
+
+* [服务端无法启动 / 启动错误](../cuo-wu-beng-kui-chu-li/qi-dong-xiang-guan-wen-ti.md)
+* 服务器卡顿
+* 服务器延迟高
+* 服务器在运行时崩溃
 
 在一切开始之前，您需要确定您开放的MC游戏版本，以下给出几个选项。
 
-* [纯净服](chun-jing-fu.md)&#x20;
-* [插件服](cha-jian-fu.md)
-* [mod服](mod-fu.md)
-* [整合包](zheng-he-bao.md)
-* [基岩服](ji-yan-fu.md)
+* [纯净服](kai-fu-zheng-he/chun-jing-fu.md)&#x20;
+* [插件服](kai-fu-zheng-he/cha-jian-fu.md)
+* [mod服](kai-fu-zheng-he/mod-fu.md)
+* [整合包](kai-fu-zheng-he/zheng-he-bao.md)
+* [基岩服](kai-fu-zheng-he/ji-yan-fu.md)
 
 在确定需要的版本之后，进入对应的页面。
 
