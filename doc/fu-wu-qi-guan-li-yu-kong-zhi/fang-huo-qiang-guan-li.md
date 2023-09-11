@@ -8,7 +8,9 @@
 
 <figure><img src="../.gitbook/assets/mstsc_SMnR4wbKHE.png" alt=""><figcaption></figcaption></figure>
 
-请注意，图示中的防火墙关闭状态是正确的，防火墙方面已不需要配置。如果您打开的页面为绿色的对钩盾牌，请继续看完后续。
+请注意，图示中的防火墙关闭状态是正确的，防火墙方面已经配置完毕，不需要再进行修改。
+
+如果您打开的页面为绿色的对钩盾牌，请继续看完后续。
 
 <figure><img src="../.gitbook/assets/mstsc_1QjTf1W1vT.png" alt=""><figcaption></figcaption></figure>
 

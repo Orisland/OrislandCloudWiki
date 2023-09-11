@@ -6,33 +6,27 @@
 
 若此方法无效，请使用下面的方法：
 
-右键你的Windows按钮![](<../../.gitbook/assets/image (7) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1).png>)
+右键你的Windows按钮![](<../../.gitbook/assets/image (7) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1).png>)，根据系统来进行图示操作寻找远程桌面程序并打开。
 
-选择“运行”选项卡
+Win11：
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/chrome_hpbSBDEyn5 (1).png" alt=""><figcaption></figcaption></figure>
 
-在“运行”窗口中输入mstsc，单机确定。
+Win10：
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
-打开远程桌面窗口
-
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-
-还是打不开的话请寻求客服帮助。
+<figure><img src="../../.gitbook/assets/mstsc_XtxDbHxnpI.png" alt=""><figcaption></figcaption></figure>
 
 窗口出现后，单机显示选项。
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-计算机栏目应填入开机ip，请注意ip的组成应为“域名:端口”的形式，其中，域名为一串英文字母，端口为数字，冒号为英文冒号。
+计算机栏目应填入客服提供的ip，请注意ip的组成应为“域名:端口”的形式，其中，域名为一串英文字母，端口为数字，冒号为英文冒号，ip格式例如 xxx.orisland.top:11451。
 
 用户名必须填写为**Administrator**，不可空置或不填。
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-请在密码栏填入客服给的远程密码，并勾选记住凭据，密码请务必手打，请勿复制密码，否则很容易出现密码错误的问题。
+请在密码栏填入客服给的远程密码，并勾选记住凭据，密码请务必手打，<mark style="color:red;">请勿复制密码</mark>，否则很容易出现<mark style="color:red;">密码错误</mark>的问题。
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 

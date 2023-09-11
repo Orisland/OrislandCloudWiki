@@ -1,3 +1,7 @@
+---
+description: 自建。
+---
+
 # 资源站
 
 <figure><img src=".gitbook/assets/chrome_FDCDd69R9M.png" alt=""><figcaption></figcaption></figure>
