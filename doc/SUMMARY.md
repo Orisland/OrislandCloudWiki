@@ -15,6 +15,7 @@
 * [资源站](zi-yuan-zhan.md)
 * [服务器管理与控制](fu-wu-qi-guan-li-yu-kong-zhi/README.md)
   * [登陆远程桌面](fu-wu-qi-guan-li-yu-kong-zhi/deng-lu-yuan-cheng-zhuo-mian/README.md)
+  * [上传文件到服务器](fu-wu-qi-guan-li-yu-kong-zhi/shang-chuan-wen-jian-dao-fu-wu-qi.md)
   * [磁盘管理](fu-wu-qi-guan-li-yu-kong-zhi/ci-pan-pei-zhi.md)
     * [新增磁盘](fu-wu-qi-guan-li-yu-kong-zhi/ci-pan-guan-li/xin-zeng-ci-pan.md)
     * [磁盘扩容](fu-wu-qi-guan-li-yu-kong-zhi/ci-pan-guan-li/ci-pan-kuo-rong.md)
