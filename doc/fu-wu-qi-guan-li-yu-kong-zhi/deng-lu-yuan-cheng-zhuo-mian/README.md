@@ -32,6 +32,8 @@ Win10：
 
 若后续出现了无登陆凭证问题，请无视该问题，正常直接连接。
 
+![](<../../.gitbook/assets/image (33).png>)
+
 进入远程桌面如图所示。
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
