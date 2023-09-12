@@ -32,10 +32,12 @@ Win10：
 
 若后续出现了无登陆凭证问题，请无视该问题，正常直接连接。
 
-![](<../../.gitbook/assets/image (33).png>)
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 进入远程桌面如图所示。
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **请进入**[**密码修改章节**](../mi-ma-xiu-gai.md)**，完成服务器的初始化，请勿省略该步骤。**
+
+**请进入**[**上传文件到服务器**](../shang-chuan-wen-jian-dao-fu-wu-qi.md)**章节，完成服务端的上传（可选，若不知道如何上传则必选）。**
