@@ -30,7 +30,7 @@ Win10：
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-若后续出现了无登陆凭证问题，请无视该问题，正常直接连接。
+若后续出现了无法验证远程计算机身份的问题，请无视该问题，正常直接连接。
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
