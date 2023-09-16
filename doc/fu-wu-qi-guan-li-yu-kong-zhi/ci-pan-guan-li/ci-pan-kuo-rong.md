@@ -1,3 +1,7 @@
+---
+description: 本操作将服务器内的硬盘提升为套餐内的标准水平。
+---
+
 # 磁盘扩容
 
 请注意本操作不可逆。
@@ -18,7 +22,7 @@
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-右击左侧蓝色区域的空白处，在选项卡选择扩展卷，如果您不需要扩容磁盘，而需要将这些空间新建磁盘，请参考[新建磁盘](xin-zeng-ci-pan.md)页面的教程。
+右击左侧蓝色区域的空白处，在选项卡选择扩展卷，如果您不需要扩容磁盘，而需要将这些空间新建磁盘，请参考[新建磁盘](xin-zeng-ci-pan.md)页面进行操作（除非刚需，否则不推荐您进行磁盘拆分）。
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
