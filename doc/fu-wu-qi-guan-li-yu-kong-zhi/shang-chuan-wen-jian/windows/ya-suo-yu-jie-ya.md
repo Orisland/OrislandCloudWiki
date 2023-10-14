@@ -32,13 +32,21 @@ description: 文件压缩
 
 由于win11自带的压缩不支持分卷压缩，所以下面的所有操作都基于上面提到的压缩软件处理。win11请右击需要压缩的软件时，选择![](../../../.gitbook/assets/image.png)显示详细菜单后参考下面的gif动画进行操作。分卷压缩将文件压缩为多个文件，为了保证文件的完整性需要将导出的**所有文件**全部传输，不可缺少，请勿进行任何重命名操作避免文件丢失。
 
-<figure><img src="../../../.gitbook/assets/explorer_o5qsdzdKu4.gif" alt=""><figcaption><p>分卷操作</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/explorer_o5qsdzdKu4.gif" alt=""><figcaption><p>分卷压缩步骤</p></figcaption></figure>
 
 ## 自解压
 
-自解压可以将文件夹压缩为可执行的exe文件，相当于同时将压缩软件封装了一份迷你版进压缩包，此方法导出的文件为exe可执行文件，所以理论上该文件可以在任何windows系统内进行顺利解压，由于自解压多指定7z的方式进行压缩，自解压生成的最终文件压缩效率也相对较高。
+自解压可以将文件夹压缩为可执行的exe文件，相当于同时将压缩软件封装了一份迷你版进压缩包，此方法导出的文件为exe可执行文件，所以理论上该文件可以在任何windows系统内进行顺利解压。
 
-本方法在这里介绍的原因是阿里云盘不支持分享任何压缩包，使用自解压的方式可以规避压缩限制顺利分享和上传。
+本方法在这里介绍的原因是**阿里云盘不支持分享任何压缩包**，使用自解压的方式可以规避压缩限制顺利分享和上传。下面的gif动画中展示了具体的创建自解压和解压的过程。
+
+<figure><img src="../../../.gitbook/assets/explorer_nQsQTt3ta5.gif" alt=""><figcaption><p>自解压过程</p></figcaption></figure>
 
 ## 解压
+
+本操作用于将压缩文件释放为压缩前的文件。
+
+下面的gif动画展示了具体的解压过程，gif动画中标注的解压路径可以按自己的需要做任意的修改，若不修改则默认解压在当前目录。
+
+<figure><img src="../../../.gitbook/assets/explorer_xkX21XrkBq.gif" alt=""><figcaption><p>解压</p></figcaption></figure>
 
