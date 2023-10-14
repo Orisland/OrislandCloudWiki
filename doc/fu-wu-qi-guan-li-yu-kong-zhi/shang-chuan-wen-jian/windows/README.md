@@ -12,7 +12,7 @@ description: 文件传输
 
 下面将详细列举三种不同的方式进行文件传输，可以单机下面的标签进行快速跳转。
 
-
+[#kuo-yong-yu-zhong-xiao-wen-jian-de-chuan-shu](./#kuo-yong-yu-zhong-xiao-wen-jian-de-chuan-shu "mention") [#xiao-wen-jian-chuan-shu](./#xiao-wen-jian-chuan-shu "mention") [#chao-da-wen-jian-chuan-shu](./#chao-da-wen-jian-chuan-shu "mention")
 
 ## 适用于中小文件的传输
 
