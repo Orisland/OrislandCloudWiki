@@ -12,6 +12,8 @@ description: 文件压缩
 
 [#pu-tong-ya-suo](ya-suo-yu-jie-ya.md#pu-tong-ya-suo "mention") [#fen-juan-ya-suo](ya-suo-yu-jie-ya.md#fen-juan-ya-suo "mention") [#zi-jie-ya](ya-suo-yu-jie-ya.md#zi-jie-ya "mention")
 
+[#jie-ya](ya-suo-yu-jie-ya.md#jie-ya "mention")
+
 ## 普通压缩
 
 首先找到需要压缩的文件夹，右击文件夹，若为win11可以找到![](<../../../.gitbook/assets/image (34).png>)，若为win10则找到360压缩提供的“添加到压缩文件”选项卡![](<../../../.gitbook/assets/image (36).png>)，在弹出的小框内将文件夹内的所有文件添加到压缩包。等待进度条完成后在当前目录生成压缩文件，下面按不同的系统给出gif参考。
@@ -37,4 +39,6 @@ description: 文件压缩
 自解压可以将文件夹压缩为可执行的exe文件，相当于同时将压缩软件封装了一份迷你版进压缩包，此方法导出的文件为exe可执行文件，所以理论上该文件可以在任何windows系统内进行顺利解压，由于自解压多指定7z的方式进行压缩，自解压生成的最终文件压缩效率也相对较高。
 
 本方法在这里介绍的原因是阿里云盘不支持分享任何压缩包，使用自解压的方式可以规避压缩限制顺利分享和上传。
+
+## 解压
 
