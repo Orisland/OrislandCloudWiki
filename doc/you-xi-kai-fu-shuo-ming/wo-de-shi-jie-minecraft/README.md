@@ -14,7 +14,7 @@ description: 请认准国际版Minecraft，远离“网易版”阉割MC。
 
 请根据自身的需要进入对应的页面。
 
-* [服务端无法启动 / 启动错误](../fu-wu-duan-beng-kui-hui-fu-yu-tiao-you/qi-dong-beng-kui.md)
+* [服务端无法启动 / 启动错误](kai-fu-xiang-guan-zheng-he/fu-wu-duan-beng-kui-hui-fu-yu-tiao-you/qi-dong-beng-kui.md)
 * 服务器卡顿
 * 服务器延迟高
 * 服务器在运行时崩溃

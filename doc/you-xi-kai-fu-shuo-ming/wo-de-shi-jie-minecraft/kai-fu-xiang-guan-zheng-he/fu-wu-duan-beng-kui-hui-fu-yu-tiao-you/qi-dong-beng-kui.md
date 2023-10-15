@@ -2,7 +2,7 @@
 description: 众所周知，95%的MC启动错误与Java版本和启动文件或启动方式有关。
 ---
 
-# 启动相关问题
+# 启动崩溃
 
 请注意，在解决任何问题之前，<mark style="color:red;">耐心是一切的前提</mark>，任何<mark style="color:red;">没有耐心</mark>，<mark style="color:red;">只问不想或只问不答</mark>的做法都<mark style="color:red;">无法真正的解决问题。</mark>如果您是抱着这种心态来处理MC的相关问题的，我劝您重新调整态度来过。大家都是从新手期走过来的，区别仅在于某些人的新手期短，有些人却因为自己的浮躁而永远无法跨过这个时期。
 
@@ -12,13 +12,7 @@ description: 众所周知，95%的MC启动错误与Java版本和启动文件或�
 
 首先打开MC服务端的文件夹，右击空白处选择新建文本文档，打开文档。
 
-<figure><img src="../../.gitbook/assets/explorer_GXqNsNq6Hp.gif" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
+<figure><img src="../../../../.gitbook/assets/explorer_GXqNsNq6Hp.gif" alt=""><figcaption></figcaption></figure>
 
 在排错之前，您需要知道下面这个表格，这对于<mark style="color:red;">Mod服</mark>的MC的启动排错非常重要，纯净服下面会另说。
 
