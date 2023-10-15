@@ -16,7 +16,7 @@ description: 众所周知，95%的MC启动错误与Java版本和启动文件或�
 
 在排错之前，您需要知道下面这个表格，这对于<mark style="color:red;">Mod服</mark>的MC的启动排错非常重要，纯净服下面会另说。
 
-<table><thead><tr><th width="369" align="center">MC版本</th><th align="center">Java版本</th></tr></thead><tbody><tr><td align="center">≤ 1.16.5</td><td align="center">8</td></tr><tr><td align="center">> 1.16.5</td><td align="center">17</td></tr></tbody></table>
+<table><thead><tr><th width="367" align="center">MC版本</th><th align="center">Java版本</th></tr></thead><tbody><tr><td align="center">≤ 1.16.5</td><td align="center">8</td></tr><tr><td align="center">> 1.16.5</td><td align="center">17</td></tr></tbody></table>
 
 由于Fabric服一般为较高版本服务器，所以目前考虑≤ 1.16.5版本的mod服mc均为forge服务器。
 
