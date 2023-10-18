@@ -6,9 +6,9 @@ description: 如题
 
 我的世界最简单的启动命令可以抽象变成这样：● -jar ◆.jar
 
-●◆都是按需要腐竹自行填入的部分，可以按照需要进行修改和调整，并不固定。
+●◆都是按需要腐竹自行填入的部分，可以按照需要进行修改和调整，并不固定，就像一个公式一样，需要填入的只有●◆这两个部分。
 
-下面将分别说明这两个图形应该填入什么东西，并将这个抽象的命令变成可执行的命令。
+下面将分别说明这两个图形应该填入什么东西，并将这个抽象的公式变成可执行的命令。
 
 ## ●
 
@@ -24,4 +24,6 @@ description: 如题
 
 在黑框中输入java -version 回车查看结果，查看如gif里的数字部分，对比上方的表格辨别java版本是否与mc服务器版本匹配，如果您这里的显示为![](../../../.gitbook/assets/image.png)，那您需要跳转到Java安装章节或直接转到本节的java版本与游戏不匹配部分查看具体处理方法。
 
-<figure><img src="../../../.gitbook/assets/WindowsTerminal_y0U2YTJUfS.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/WindowsTerminal_y0U2YTJUfS.gif" alt=""><figcaption><p>java版本查看</p></figcaption></figure>
+
+若出现
