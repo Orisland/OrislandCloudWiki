@@ -14,7 +14,7 @@ description: 为你的服务器配置外部登录
 
 可以单机下面的链接进行快速章节跳转。
 
-[#zhu-ce-yu-jiao-se-chuang-jian](wai-bu-deng-lu.md#zhu-ce-yu-jiao-se-chuang-jian "mention")[#fu-wu-duan](wai-bu-deng-lu.md#fu-wu-duan "mention")[#ke-hu-duan](wai-bu-deng-lu.md#ke-hu-duan "mention")
+[#zhu-ce-yu-jiao-se-chuang-jian](wai-bu-deng-lu.md#zhu-ce-yu-jiao-se-chuang-jian "mention")[#fu-wu-duan](wai-bu-deng-lu.md#fu-wu-duan "mention")[#ke-hu-duan](wai-bu-deng-lu.md#ke-hu-duan "mention")[#yan-zheng-shi-fou-cheng-gong](wai-bu-deng-lu.md#yan-zheng-shi-fou-cheng-gong "mention")
 
 ## 注册与角色创建
 
@@ -62,9 +62,11 @@ gitbook源
 
 <figure><img src="../../../.gitbook/assets/Notepad_k9KZT74FoK.png" alt=""><figcaption></figcaption></figure>
 
-对于混合式核心（例如arclight，catserver等）；≤1.16.5的forge服务端；fabric服务器，插件服跳转 [#fang-fa-1](wai-bu-deng-lu.md#fang-fa-1 "mention")，[#kai-fu-qi](wai-bu-deng-lu.md#kai-fu-qi "mention")。
+> 对于混合式核心（例如arclight，catserver等）；≤1.16.5的forge服务端；fabric服务器，插件服。 [#fang-fa-1](wai-bu-deng-lu.md#fang-fa-1 "mention")，[#kai-fu-qi](wai-bu-deng-lu.md#kai-fu-qi "mention")。
 
-对于>1.16.5的forge服务端使用 [#fang-fa-2](wai-bu-deng-lu.md#fang-fa-2 "mention")。
+> 对于>1.16.5的forge服务端。
+>
+> [#fang-fa-2](wai-bu-deng-lu.md#fang-fa-2 "mention")。
 
 ### 方法1
 
