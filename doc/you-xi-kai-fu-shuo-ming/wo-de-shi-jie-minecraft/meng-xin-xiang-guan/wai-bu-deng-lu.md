@@ -118,19 +118,19 @@ HMCL下载
 
 单机添加账户。
 
-<figure><img src="../../../.gitbook/assets/javaw_is9cnRh1EN (2).png" alt=""><figcaption><p>创建用户</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/javaw_is9cnRh1EN (2).png" alt="" width="563"><figcaption><p>创建用户</p></figcaption></figure>
 
 单机littleskin登录，并输入账号密码。
 
-<figure><img src="../../../.gitbook/assets/javaw_PQJOAuzjDT.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/javaw_PQJOAuzjDT.png" alt="" width="563"><figcaption></figcaption></figure>
 
 输入完成后登录即可，用户名可以使用在皮肤站的起的名称或者邮箱，若您的littleskin创建了多个角色，则在使用邮箱登录的时候，需要选择具体的登录角色。
 
-<figure><img src="../../../.gitbook/assets/javaw_v8bNlz1j5Q.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/javaw_v8bNlz1j5Q.png" alt="" width="563"><figcaption></figcaption></figure>
 
 登录完成后这里会有角色提示，回到主界面登录即可完成，这些步骤结束后外部登录的客户端方面的操作已经全部完成，原本多人游戏中使用命令登录的步骤省略。
 
-<figure><img src="../../../.gitbook/assets/javaw_YRB0harjSr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/javaw_YRB0harjSr.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 验证是否成功
 
