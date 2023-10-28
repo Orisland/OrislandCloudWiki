@@ -35,6 +35,7 @@
       * [MC开服简述](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/mc-kai-fu-jian-shu.md)
       * [服务器核心选择与下载](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/fu-wu-qi-he-xin-xuan-ze-yu-xia-zai.md)
       * [制作服务器的启动bat](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/zhi-zuo-fu-wu-qi-de-qi-dong-bat.md)
+      * [外部登录](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/wai-bu-deng-lu.md)
     * [开服相关整合](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/README.md)
       * [纯净服](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/chun-jing-fu.md)
       * [mod服](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/mod-fu.md)

@@ -6,7 +6,7 @@ description: 分为苹果和安卓两种机型进行叙述。
 
 请通过下方的标签进行快速跳转。
 
-
+[#an-zhuo](yi-dong-duan.md#an-zhuo "mention")[#ping-guo](yi-dong-duan.md#ping-guo "mention")
 
 ## 软件安装
 
