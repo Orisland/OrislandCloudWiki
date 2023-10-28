@@ -10,6 +10,8 @@ description: 为你的服务器配置外部登录
 
 本方案的验证站将修改微软为littleskin，一个国内的优秀皮肤站，您也可以自建皮肤站自建登录服务，下面的教程将以littleskin提供的登录验证进行替换。
 
+请注意，_<mark style="color:red;">**外部登录 不等于 正版登录**</mark>_，这种使用外部登录并_<mark style="color:blue;">**不能让你登录真正的正版服务器**</mark>**，**_**外部登录是规避微软正版限制的手段，并不是完全意义上的正版登录，外部登录本质上是另类的离线登录。**
+
 可以单机下面的链接进行快速章节跳转。
 
 [#zhu-ce-yu-jiao-se-chuang-jian](wai-bu-deng-lu.md#zhu-ce-yu-jiao-se-chuang-jian "mention")[#fu-wu-duan](wai-bu-deng-lu.md#fu-wu-duan "mention")[#ke-hu-duan](wai-bu-deng-lu.md#ke-hu-duan "mention")
