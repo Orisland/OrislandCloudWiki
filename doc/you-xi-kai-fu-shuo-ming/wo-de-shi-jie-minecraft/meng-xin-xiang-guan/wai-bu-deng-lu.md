@@ -34,13 +34,13 @@ littleskin
 
 <figure><img src="../../../.gitbook/assets/chrome_h0Cfpg3Z6q.png" alt="" width="442"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/chrome_476bPIiokN.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/chrome_476bPIiokN.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/chrome_5CBZFV6Asn (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/chrome_5CBZFV6Asn (1).png" alt="" width="392"><figcaption></figcaption></figure>
 
 添加完成后可以在衣柜里更换皮肤。
 
-<figure><img src="../../../.gitbook/assets/chrome_lPvm7Zvmrt.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/chrome_lPvm7Zvmrt.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 服务端
 
@@ -55,6 +55,10 @@ gitbook源
 {% embed url="https://orisland.lanzoul.com/iMf3g1d3b14j" %}
 蓝奏云
 {% endembed %}
+
+由于外部登录与官方的正版登录类似，所以若要启动外部登录，必须在服务端的server.properties文件中保证online-mode=true。<mark style="color:red;">**若该选项为false，则下面的所有的**</mark>_<mark style="color:red;">**操作均无效**</mark>_，外部登录要求服务端与客户端同时使用，否则任何人都将无法正常登陆(包括正版用户)。
+
+<figure><img src="../../../.gitbook/assets/Notepad_k9KZT74FoK.png" alt=""><figcaption></figcaption></figure>
 
 对于混合式核心（例如arclight，catserver等）；≤1.16.5的forge服务端；fabric服务器，插件服跳转 [#fang-fa-1](wai-bu-deng-lu.md#fang-fa-1 "mention")，[#kai-fu-qi](wai-bu-deng-lu.md#kai-fu-qi "mention")。
 
