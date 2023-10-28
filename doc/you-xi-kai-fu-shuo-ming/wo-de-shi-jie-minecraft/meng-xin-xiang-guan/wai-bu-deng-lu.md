@@ -10,33 +10,95 @@ description: 为你的服务器配置外部登录
 
 本方案的验证站将修改微软为littleskin，一个国内的优秀皮肤站，您也可以自建皮肤站自建登录服务，下面的教程将以littleskin提供的登录验证进行替换。
 
-若使用littleskin，请先到littleskin进行注册。
+可以单机下面的链接进行快速章节跳转。
+
+[#zhu-ce-yu-jiao-se-chuang-jian](wai-bu-deng-lu.md#zhu-ce-yu-jiao-se-chuang-jian "mention")[#fu-wu-duan](wai-bu-deng-lu.md#fu-wu-duan "mention")[#ke-hu-duan](wai-bu-deng-lu.md#ke-hu-duan "mention")
+
+## 注册与角色创建
+
+若已经存在账号则可以跳过该步骤。
 
 {% embed url="https://littleskin.cn/" %}
 littleskin
 {% endembed %}
 
-可以单机下面的链接进行快速章节跳转。
+打开网页后单机注册。
 
-`-javaagent:authlib-injector-1.2.1.jar=https://littleskin.cn/api/yggdrasil`
+<figure><img src="../../../.gitbook/assets/chrome_nfKJe5kdaR.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## 注册与角色创建
+正常完成注册后登录。
+
+<figure><img src="../../../.gitbook/assets/image (38).png" alt="" width="555"><figcaption></figcaption></figure>
+
+登录后在左侧单机角色管理，创建角色。
+
+<figure><img src="../../../.gitbook/assets/chrome_h0Cfpg3Z6q.png" alt="" width="442"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/chrome_476bPIiokN.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/chrome_5CBZFV6Asn (1).png" alt=""><figcaption></figcaption></figure>
+
+添加完成后可以在衣柜里更换皮肤。
+
+<figure><img src="../../../.gitbook/assets/chrome_lPvm7Zvmrt.png" alt=""><figcaption></figcaption></figure>
 
 ## 服务端
 
 服务端需要特殊的配置让外部登录代替正版登录进行验证。
 
-对于混合式核心（例如arclight，catserver等）；≤1.16.5的forge服务端；fabric服务器，插件服使用方法1。
+下载外部验证插件，并把该文件放置到服务端根目录，提供两个下载源，以备后续使用，令备注[官方开源wiki](https://github.com/yushijinhun/authlib-injector/wiki)。
 
-对于>1.16.5的forge服务端使用方法2。
+{% file src="../../../.gitbook/assets/authlib-injector-1.2.1.jar" %}
+gitbook源
+{% endfile %}
+
+{% embed url="https://orisland.lanzoul.com/iMf3g1d3b14j" %}
+蓝奏云
+{% endembed %}
+
+对于混合式核心（例如arclight，catserver等）；≤1.16.5的forge服务端；fabric服务器，插件服跳转 [#fang-fa-1](wai-bu-deng-lu.md#fang-fa-1 "mention")，[#kai-fu-qi](wai-bu-deng-lu.md#kai-fu-qi "mention")。
+
+对于>1.16.5的forge服务端使用 [#fang-fa-2](wai-bu-deng-lu.md#fang-fa-2 "mention")。
 
 ### 方法1
 
 修改启动bat，将下面的字符加在java 与 -jar 之间的位置。
 
+`-javaagent:authlib-injector-1.2.1.jar=https://littleskin.cn/api/yggdrasil`
 
+修改样例：
 
+原启动bat文件：
 
+`java -Xms6G -Xmx6G -jar forge.jar nogui`
+
+修改为如下，红色部分为新加部分：
+
+`java -Xms6G -Xmx6G`` `<mark style="color:red;">`-javaagent:authlib-injector-1.2.1.jar=https://littleskin.cn/api/yggdrasil`</mark>` ``-jar forge.jar nogui`
+
+修改完成后保存即可正常启动。
+
+### 方法2
+
+由于高版本forge修改了启动方式，自带了bat文件启动，需要修改的文件为user\_jvm\_args.txt，文件打开后，进行下面的修改，添加上面的那行代码添加到这里并保存，**请注意，新加的部分开头不应该包含#，千万注意，所有#开头的代码均为无效代码。**修改完成后正常启动服务器即可完成服务端的配置。
+
+<figure><img src="../../../.gitbook/assets/Notepad_h0Dvgx3vyd (1).png" alt=""><figcaption></figcaption></figure>
+
+### 开服器
+
+请在开服器中单机本体设置。
+
+<figure><img src="../../../.gitbook/assets/服务器管理_fGwwvzGK4G.png" alt=""><figcaption></figcaption></figure>
+
+单机编辑附加参数文件。
+
+<figure><img src="../../../.gitbook/assets/服务器管理_vHnMAMeXqg.png" alt=""><figcaption></figcaption></figure>
+
+在弹出的文本编辑器中添加上面的参数，修改完成后保存。
+
+<figure><img src="../../../.gitbook/assets/Notepad_LF740pU1SE.png" alt=""><figcaption></figcaption></figure>
+
+保存后后启动服务端即可。
 
 ## 客户端
 
@@ -66,3 +128,8 @@ HMCL下载
 
 <figure><img src="../../../.gitbook/assets/javaw_YRB0harjSr.png" alt=""><figcaption></figcaption></figure>
 
+## 验证是否成功
+
+服务器在启动时出现如下提示信息，则代表外部登录的服务器配置已完成。
+
+<figure><img src="../../../.gitbook/assets/服务器管理_dVitYqRdgB.png" alt=""><figcaption></figcaption></figure>
