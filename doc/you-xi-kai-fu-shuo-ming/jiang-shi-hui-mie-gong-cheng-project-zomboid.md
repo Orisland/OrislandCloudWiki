@@ -13,7 +13,7 @@
 
 ## 开始
 
-打开僵尸毁灭计划服务端，修改下面图中的三个文件（或只修改一个文件，您启动游戏也只需要一个，另外两个是不需要的），将删除ZGC配置，或将图中的ZGC部分修改为G1GC。
+打开僵尸毁灭计划服务端，修改下面图中的三个文件（或只修改一个文件，您启动游戏也只需要一个，另外两个是不需要的，推荐使用StartServer64.bat），删除`-XX:+UseZGC`字段，或将图中的`ZGC`部分修改为G1GC。
 
 <figure><img src="../.gitbook/assets/explorer_VnHP8fNjTM.png" alt=""><figcaption></figcaption></figure>
 
@@ -25,7 +25,9 @@
 
 <figure><img src="../.gitbook/assets/WindowsTerminal_PmGef8Nx28.png" alt=""><figcaption></figcaption></figure>
 
-请打开服务器的![](../.gitbook/assets/mstsc\_kQqTwL8poA.png)，并在下图中勾出的位置中输入\`C:\Users%USERNAME%\Zomboid\Server\`，并单机回车，进入该路径后，打开servertest.ini（若不是这个名字，请打开ini结尾后缀的文件）
+请打开服务器的![](../.gitbook/assets/mstsc\_kQqTwL8poA.png)，并在下图中勾出的位置中输入\` C:\Users\\%USERNAME%\Zomboid\Server \`，并单机回车，进入该路径后，打开servertest.ini（若不是这个名字，请打开ini结尾后缀的文件）若该文件不存在，请按上面的叙述，至少启动一次服务端（可以使用nosteam.bat启动节约时间）。
+
+<figure><img src="../.gitbook/assets/mstsc_LGOVSGydVy.gif" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/mstsc_1CYZ7PNpV8.png" alt=""><figcaption></figcaption></figure>
 
