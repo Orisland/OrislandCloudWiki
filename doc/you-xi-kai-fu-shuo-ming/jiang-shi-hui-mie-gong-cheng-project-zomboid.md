@@ -31,7 +31,9 @@
 
 <figure><img src="../.gitbook/assets/mstsc_1CYZ7PNpV8.png" alt=""><figcaption></figcaption></figure>
 
-您可以通过键盘的组合键ctrl+c快速的寻找`16261`所在的位置，也可以自行滚动查找，请将这两个数字调整为自己的开放端口，第二个端口一般配置为第一个端口数字+1。具体的开放端口数字请找客服索取或在其他云服务厂商的安全组进行配置，请注意，图里的两个端口都需要开放udp协议。<mark style="color:red;">**修改完成后请务必保存！**</mark>
+您可以通过键盘的组合键ctrl+f快速的寻找`16261`所在的位置，也可以自行滚动查找，请将这两个数字调整为自己的开放端口，第二个端口一般配置为第一个端口数字+1。具体的开放端口数字请找客服索取或在其他云服务厂商的安全组进行配置，请注意，图里的两个端口都需要开放udp协议。<mark style="color:red;">**修改完成后请务必保存！**</mark>
+
+<figure><img src="../.gitbook/assets/mstsc_AEQjVlS5wA.gif" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/mstsc_MImGXnrDty.png" alt=""><figcaption></figcaption></figure>
 
