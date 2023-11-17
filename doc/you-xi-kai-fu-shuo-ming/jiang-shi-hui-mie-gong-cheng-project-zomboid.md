@@ -1,14 +1,14 @@
 # 僵尸毁灭工程 Project Zomboid
 
-请<mark style="color:red;">**不要听信网上各种教程的说法**</mark>，~~"必须win10以上才能开，必须winserver 2019以上才能开。"~~，此类说法是因为自己<mark style="color:red;">**对Java不了解导致的**</mark>，与游戏的服务端的跨平台性无关。僵尸毁灭工程的服务端由java编写，<mark style="color:red;">**良好的跨平台性**</mark>特点是这个编程语言的<mark style="color:red;">**最大优势之一**</mark>，一般<mark style="color:red;">**不会出现上面的系统版本问题，除非玩家自己不会配置**</mark>。
+请<mark style="color:red;">**不要听信网上各种教程的说法**</mark>，~~"必须win10以上才能开，必须winserver 2019以上才能开。"~~，此类说法是因为自己<mark style="color:red;">**对Java不了解导致的**</mark>，与游戏的服务端的跨平台性无关。僵尸毁灭工程的服务端由java编写，<mark style="color:red;">**优良的跨平台性**</mark>特点是这个编程语言的<mark style="color:red;">**最大优势之一**</mark>，一般<mark style="color:red;">**不会出现上面的系统版本问题，除非玩家自己不会配置**</mark>。
 
-> 事前的说明，ZGC（The Z Garbage Collector）是JDK 11中推出的一款追求极致低延迟的实验性质的垃圾收集。但是ZGC会导致Java进程占用内存远超其他垃圾收集器，同时为了低时延而导致对于程序本身的性能也有所下滑。所以一般情况下，**并不是很推荐使用ZGC**。
+> 事前的说明，ZGC（The Z Garbage Collector）是JDK 11中推出的一款追求极致低延迟的实验性质的垃圾收集。但是ZGC会导致Java进程占用内存远超其他垃圾收集器，同时为了低时延而导致对于程序本身的性能也有所下滑。所以一般情况下，**并不是很推荐使用ZGC**。去除ZGC参数也不会导致服务器无法启动。
 
 ## 准备
 
 请首先准备两样东西进行开服前的必要准备。
 
-* Java17环境。
+* Java17或其他版本，一般服务端自带
 * 僵尸毁灭计划服务端
 
 ## 开始
