@@ -49,6 +49,7 @@
         * [辅助脚本](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/fu-wu-duan-beng-kui-hui-fu-yu-tiao-you/fu-zhu-jiao-ben.md)
   * [七日杀 7 Days to Die](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/README.md)
     * [启动/关闭/重启](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/qi-dong-guan-bi-zhong-qi.md)
+    * [mod安装](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/mod-an-zhuang.md)
   * [泰拉瑞亚 Terraria](you-xi-kai-fu-shuo-ming/tai-la-rui-ya-terraria.md)
   * [僵尸毁灭工程 Project Zomboid](you-xi-kai-fu-shuo-ming/jiang-shi-hui-mie-gong-cheng-project-zomboid.md)
   * [饥荒 Don’t Starve](you-xi-kai-fu-shuo-ming/ji-huang-dont-starve.md)
