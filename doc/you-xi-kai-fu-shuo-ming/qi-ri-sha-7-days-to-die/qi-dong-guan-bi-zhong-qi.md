@@ -32,7 +32,19 @@ description: 本篇介绍如何启动七日杀服务器
 
 ### 非正常关闭
 
-这种关闭方法为非正常关闭 ，有损坏存档，丢失进度的风险，一般情况下请勿使用这种方法关闭服务器。
+这种关闭方法为非正常关闭 ，有损坏存档，丢失进度的风险，_**一般情况下请勿使用这种方法关闭服务器**_。
+
+#### 命令行
+
+右击![](<../../.gitbook/assets/image (42).png>)，在选项框中选择![](<../../.gitbook/assets/image (43).png>)，
+
+在弹出的运行选项卡中输入`taskkill /F /IM 7DaysToDieServer.exe`，单机确定。
+
+本操作会强制关闭七日杀的服务端，若该进程不存在则不会有提示。
+
+<figure><img src="../../.gitbook/assets/mstsc_i5vUuPC2up.png" alt=""><figcaption></figcaption></figure>
+
+#### 手动
 
 右击任务栏，单机任务管理器，打开任务管理器
 
