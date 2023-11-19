@@ -28,15 +28,9 @@ Naiwazi面板是一款可以很方便管理七日杀游戏的全功能面板，�
 
 请注意，这个面板不是独立于七日杀的控制组件，这个面板的启动仍依赖于七日杀。这意味着如果你想使用面板控制服务器，那么你的服务器至少此时<mark style="color:red;">**必须是启动状态**</mark>。
 
-由于mod本身的性质，请在七日杀服务端你的根目录找打文件`serverconfig.xml`，打开后找到`name="EACEnabled"`字段，将本行的`value="true"`修改为`value="false"`，请注意双银行的完整，不可使用输入法中的双引号或不写双引号。
+由于mod本身的性质，请在七日杀服务端你的根目录找打文件`serverconfig.xml`，打开后找到`name="EACEnabled"`字段，将本行的`value="true"`修改为`value="false"`，请注意双银行的完整，不可使用输入法中的双引号或不写双引号，具体规范问题，参考 [#xiu-gai-gui-fan](xi-jie-tiao-zheng/#xiu-gai-gui-fan "mention")内的格式规范说明。
 
 <figure><img src="../../.gitbook/assets/notepad++_FX5pemT4oY.png" alt=""><figcaption><p>正确的改法</p></figcaption></figure>
-
-下面将列举<mark style="color:red;">**错误的修改方式**</mark>，请注意避免。
-
-<figure><img src="../../.gitbook/assets/notepad++_8rOLMaUBgY.png" alt=""><figcaption><p>错误1</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/notepad++_WdrNFbJ38q (1).png" alt=""><figcaption><p>错误2</p></figcaption></figure>
 
 保存文件，然后服务端的 [#zhong-qi](qi-dong-guan-bi-zhong-qi.md#zhong-qi "mention")。
 

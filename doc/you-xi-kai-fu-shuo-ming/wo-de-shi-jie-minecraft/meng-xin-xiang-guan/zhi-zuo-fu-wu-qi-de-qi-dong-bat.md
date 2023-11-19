@@ -22,7 +22,7 @@ description: 如题
 
 <figure><img src="../../../.gitbook/assets/AfZQwQZfH7.gif" alt="" width="206"><figcaption><p>启动控制台</p></figcaption></figure>
 
-在黑框中输入java -version 回车查看结果，查看如gif里的数字部分，对比上方的表格辨别java版本是否与mc服务器版本匹配，如果您这里的显示为![](../../../.gitbook/assets/image.png)，那您需要跳转到Java安装章节或直接转到本节的java版本与游戏不匹配部分查看具体处理方法。
+在黑框中输入java -version 回车查看结果，查看如gif里的数字部分，对比上方的表格辨别java版本是否与mc服务器版本匹配，如果您这里的显示为![](<../../../.gitbook/assets/image (5).png>)，那您需要跳转到Java安装章节或直接转到本节的java版本与游戏不匹配部分查看具体处理方法。
 
 <figure><img src="../../../.gitbook/assets/WindowsTerminal_y0U2YTJUfS.gif" alt=""><figcaption><p>java版本查看</p></figcaption></figure>
 
