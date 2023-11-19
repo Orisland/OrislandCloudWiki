@@ -53,3 +53,17 @@ description: 本文将介绍如何为七日杀服务端安装mod
 跳转到指定的位置后，请勿使用图中红叉的部分进行下载，应选择箭头所指的下载方式。
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+
+## 安装
+
+一般情况下，下载的mod文件为文件夹形式，请解压文件夹，并请把文件夹复制到你的服务端的mods文件夹中。
+
+<figure><img src="../../.gitbook/assets/dsLK17dzWp.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/explorer_6h2OJBY3gd.png" alt=""><figcaption></figcaption></figure>
+
+复制完成后，服务端的mods文件夹内需要存在该文件夹，如下图。
+
+<figure><img src="../../.gitbook/assets/explorer_heyGj1ByuE.png" alt=""><figcaption></figcaption></figure>
+
+复制完成后，返回服务端的根目录， [#zhong-qi](qi-dong-guan-bi-zhong-qi.md#zhong-qi "mention")服务端，如果不只需要具体的重启步骤可以单机重启进行查看。
