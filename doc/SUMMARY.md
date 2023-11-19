@@ -51,6 +51,7 @@
     * [常见错误处理](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/chang-jian-cuo-wu-chu-li.md)
     * [启动/关闭/重启](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/qi-dong-guan-bi-zhong-qi.md)
     * [mod安装](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/mod-an-zhuang.md)
+    * [Naiwazi面板](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/naiwazi-mian-ban.md)
   * [泰拉瑞亚 Terraria](you-xi-kai-fu-shuo-ming/tai-la-rui-ya-terraria.md)
   * [僵尸毁灭工程 Project Zomboid](you-xi-kai-fu-shuo-ming/jiang-shi-hui-mie-gong-cheng-project-zomboid.md)
   * [饥荒 Don’t Starve](you-xi-kai-fu-shuo-ming/ji-huang-dont-starve.md)
