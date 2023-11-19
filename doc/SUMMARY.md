@@ -48,6 +48,7 @@
         * [卡顿优化](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/fu-wu-duan-beng-kui-hui-fu-yu-tiao-you/ka-dun-you-hua.md)
         * [辅助脚本](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/fu-wu-duan-beng-kui-hui-fu-yu-tiao-you/fu-zhu-jiao-ben.md)
   * [七日杀 7 Days to Die](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/README.md)
+    * [常见错误处理](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/chang-jian-cuo-wu-chu-li.md)
     * [启动/关闭/重启](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/qi-dong-guan-bi-zhong-qi.md)
     * [mod安装](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/mod-an-zhuang.md)
   * [泰拉瑞亚 Terraria](you-xi-kai-fu-shuo-ming/tai-la-rui-ya-terraria.md)
