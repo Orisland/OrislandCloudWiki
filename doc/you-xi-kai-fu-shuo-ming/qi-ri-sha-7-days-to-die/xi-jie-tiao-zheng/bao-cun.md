@@ -32,7 +32,7 @@ description: 配置文件的所有修改都应该及时保存
 
 市面上最广泛使用的编辑器，泛用性及其广泛，但是相比notepad++较重。
 
-若右击文件，没有发现VSCode编辑选项，那么可以先从桌面打开![](<../../../.gitbook/assets/image (4).png>)，再将需要打开的文件拖动到窗口中实现文件的打开。
+若右击文件，没有发现VSCode编辑选项，那么可以先从桌面打开<img src="../../../.gitbook/assets/image (4).png" alt="" data-size="line">，再将需要打开的文件拖动到窗口中实现文件的打开。
 
 <figure><img src="../../../.gitbook/assets/chrome_aPl7347hzO.png" alt=""><figcaption></figcaption></figure>
 
