@@ -24,7 +24,7 @@ Naiwazi面板是一款可以很方便管理七日杀游戏的全功能面板，�
 
 安装完成后 [#zhong-qi](qi-dong-guan-bi-zhong-qi.md#zhong-qi "mention")七日杀服务端即可完成mod的安装。
 
-## 配置使用
+## 配置
 
 请注意，这个面板不是独立于七日杀的控制组件，这个面板的启动仍依赖于七日杀。这意味着如果你想使用面板控制服务器，那么你的服务器至少此时<mark style="color:red;">**必须是启动状态**</mark>。
 
@@ -38,15 +38,17 @@ Naiwazi面板是一款可以很方便管理七日杀游戏的全功能面板，�
 
 <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
+## 使用
+
 本条通知中包含了面板的端口信息，图中显示的端口为26906，这个端口的由来为游戏端口+6，所以如果没有找到这条通知，你也同样可以通过观察图中所示的方式，算出面板的端口号。
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-得到端口号后，你可以直接在服务器的浏览器中输入localhost:刚才的端口号访问面板，以上图中的26906为例，你应该在浏览器中访问的地址就是localhost:26906，如果你的端口号不是26906，请以你的为准。第一次登录面板，会进入用户名和密码的配置页面，配置用户名和密码后，即可完成面板的初始化。
+得到端口号后，你可以直接在服务器的浏览器中输入localhost:刚才的端口号访问面板，以上图中的26906为例，你应该在浏览器中访问的地址就是localhost:26906，如果你的端口号不是26906，_**请以你的为准**_。第一次登录面板，会进入用户名和密码的配置页面，配置用户名和密码后，即可完成面板的初始化。
 
 <figure><img src="../../.gitbook/assets/msedge_RzhNCreaCi.png" alt=""><figcaption></figcaption></figure>
 
-配置完成后，进入服务器面板后台，面板安装配置完成。具体的面板各项功能请玩家自行探索或参考官方教程。
+配置完成后，进入服务器面板后台，面板安装配置完成。具体的面板各项功能请腐竹自行探索或参考官方说明。
 
 {% embed url="http://cn.naiwazi.com/bot/#/?id=%e5%ae%89%e8%a3%85" %}
 
