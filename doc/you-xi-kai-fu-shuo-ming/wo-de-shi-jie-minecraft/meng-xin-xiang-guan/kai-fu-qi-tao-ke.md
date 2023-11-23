@@ -14,6 +14,10 @@ description: 本章主要说明如何给服务器套外壳方便管理。
 
 对于游戏版本> 1.16.5的无独立核心forge，请使用 [#fang-fa-2](kai-fu-qi-tao-ke.md#fang-fa-2 "mention")
 
+服务器的启动跳转 [#qi-dong-fu-wu-qi](kai-fu-qi-tao-ke.md#qi-dong-fu-wu-qi "mention")
+
+jvm参数配置跳转 [#jvm-can-shu-xiu-gai](kai-fu-qi-tao-ke.md#jvm-can-shu-xiu-gai "mention")
+
 ## 首先
 
 下载管理工具到本地之后，新建文件夹`server`，将服务端内容拷贝到`server`文件夹中。请注意文件夹名字不要写错，若该文件夹已经存在，可以跳过创建步骤直接把文件放在这个文件夹里。
@@ -42,5 +46,32 @@ description: 本章主要说明如何给服务器套外壳方便管理。
 
 <figure><img src="../../../.gitbook/assets/Notepad_NpRrg69PXg.png" alt=""><figcaption></figcaption></figure>
 
+打开server文件夹，右击，新建文档，将文件的名称改为start.jar，start可以随意修改，但是请注意_<mark style="color:red;">**不能包含中文和特殊字符（例如空格等符号）**</mark>_。
+
+<figure><img src="../../../.gitbook/assets/explorer_7aBhRZhEkb.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/explorer_5ninupt2bs.png" alt=""><figcaption></figcaption></figure>
+
+打开开服器，选择本体设置选项卡，将刚才修改的`start.jar`文件填入。
+
+<figure><img src="../../../.gitbook/assets/服务器管理_bGKfVeitWt.png" alt=""><figcaption></figcaption></figure>
+
 ## 启动服务器
 
+调整到控制面板选项卡，单机启动等待即可。
+
+<figure><img src="../../../.gitbook/assets/服务器管理_qAfeaw74KQ.png" alt=""><figcaption></figcaption></figure>
+
+## Jvm参数修改
+
+本节为附加，可以按需要进行修改选择。
+
+jvm参数修改是相对进阶的服务器优化，不建议没有经验的腐竹盲目的复制。
+
+图中的位置可以比较快速的修改服务器的内存占用大小。
+
+<figure><img src="../../../.gitbook/assets/服务器管理_FC90QdA3mE.png" alt=""><figcaption></figcaption></figure>
+
+添加其他的jvm参数在forge>1.16.5版本请在user\_jvm\_args.txt文件中进行添加修改。
+
+<figure><img src="../../../.gitbook/assets/explorer_SEtX6VngOe.png" alt=""><figcaption></figcaption></figure>
