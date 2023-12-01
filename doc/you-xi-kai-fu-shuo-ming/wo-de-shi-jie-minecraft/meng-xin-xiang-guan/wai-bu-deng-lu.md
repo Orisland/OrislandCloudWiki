@@ -12,6 +12,12 @@ description: 为你的服务器配置外部登录
 
 请注意，_<mark style="color:red;">**外部登录 不等于 正版登录**</mark>_，这种使用外部登录并_<mark style="color:blue;">**不能让你登录真正的正版服务器**</mark>**，**_**外部登录是规避微软正版限制的手段，并不是完全意义上的正版登录，外部登录本质上是另类的离线登录。**
 
+|      | 正版服务器 | 离线服务器 | 外部登录服务器 |
+| ---- | ----- | ----- | ------- |
+| 正版登录 | ✔     | ✔     | ❌       |
+| 离线登录 | ❌     | ✔     | ❌       |
+| 外部登录 | ❌     | ✔     | ✔       |
+
 可以单机下面的链接进行快速章节跳转。
 
 [#zhu-ce-yu-jiao-se-chuang-jian](wai-bu-deng-lu.md#zhu-ce-yu-jiao-se-chuang-jian "mention")[#fu-wu-duan](wai-bu-deng-lu.md#fu-wu-duan "mention")[#ke-hu-duan](wai-bu-deng-lu.md#ke-hu-duan "mention")[#yan-zheng-shi-fou-cheng-gong](wai-bu-deng-lu.md#yan-zheng-shi-fou-cheng-gong "mention")
