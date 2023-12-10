@@ -78,8 +78,16 @@ description: 本章用于切换服务器基本的默认java环境
 
 <figure><img src="../../../../.gitbook/assets/mstsc_bN5QWwu4TS.png" alt=""><figcaption></figcaption></figure>
 
+结尾可以不带exe，也可以带exe，但是这个位置必须是文件，不能是目录或者错误的重名文件，可以用 [#xi-tong-mo-ren-java-ban-ben-cha-kan](java-qie-huan.md#xi-tong-mo-ren-java-ban-ben-cha-kan "mention")的方法查看Java路径正确，若出现预料之外的字符则Java路径有误。
+
+<figure><img src="../../../../.gitbook/assets/mstsc_F0V3IH9pMV.png" alt=""><figcaption></figcaption></figure>
+
 ### 系统默认Java版本查看
 
 若不清楚系统的默认的`Java`环境版本，可以通过下面的方法的查看。
 
-<figure><img src="../../../../.gitbook/assets/mstsc_gxpsOWA19j.gif" alt=""><figcaption></figcaption></figure>
+本方法也可以查看指定路径的`java`版本。
+
+<figure><img src="../../../../.gitbook/assets/mstsc_gxpsOWA19j.gif" alt=""><figcaption><p>系统Java版本</p></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/mstsc_3PhTCdnBDJ.gif" alt=""><figcaption><p>检查指定路径的java</p></figcaption></figure>
