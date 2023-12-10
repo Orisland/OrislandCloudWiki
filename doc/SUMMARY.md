@@ -17,7 +17,7 @@
   * [登陆远程桌面](fu-wu-qi-guan-li-yu-kong-zhi/deng-lu-yuan-cheng-zhuo-mian/README.md)
     * [Windows](fu-wu-qi-guan-li-yu-kong-zhi/deng-lu-yuan-cheng-zhuo-mian/windows.md)
     * [移动端](fu-wu-qi-guan-li-yu-kong-zhi/deng-lu-yuan-cheng-zhuo-mian/yi-dong-duan.md)
-    * [Linux](fu-wu-qi-guan-li-yu-kong-zhi/deng-lu-yuan-cheng-zhuo-mian/linux/README.md)
+    * [Linux](fu-wu-qi-guan-li-yu-kong-zhi/deng-lu-yuan-cheng-zhuo-mian/linux.md)
       * [Linux系统了解程度测试](fu-wu-qi-guan-li-yu-kong-zhi/deng-lu-yuan-cheng-zhuo-mian/linux/linux-xi-tong-le-jie-cheng-du-ce-shi.md)
   * [上传文件](fu-wu-qi-guan-li-yu-kong-zhi/shang-chuan-wen-jian/README.md)
     * [Windows](fu-wu-qi-guan-li-yu-kong-zhi/shang-chuan-wen-jian/windows/README.md)
