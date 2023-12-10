@@ -14,7 +14,7 @@ description: 如题
 
 在填入这个命令前，你需要先知道一个表格，根据不同的mc游戏版本，来最终确定这里应该填写的内容。
 
-<table><thead><tr><th width="367" align="center">MC版本</th><th align="center">Java版本</th></tr></thead><tbody><tr><td align="center">≤ 1.16.5</td><td align="center">8</td></tr><tr><td align="center">> 1.16.5</td><td align="center">17</td></tr></tbody></table>
+<table><thead><tr><th width="372" align="center">MC版本</th><th align="center">Java版本</th></tr></thead><tbody><tr><td align="center">≤ 1.16.5</td><td align="center">8</td></tr><tr><td align="center">> 1.16.5</td><td align="center">17</td></tr></tbody></table>
 
 在知道这个表格之后，您还需要知道开服电脑或者服务器安装的java版本，确保匹配对应，请通过下面的gif演示查看系统的java版本。
 

@@ -4,6 +4,8 @@ description: 本章用于切换服务器基本的默认java环境
 
 # Java切换
 
+<table><thead><tr><th width="372" align="center">MC版本</th><th align="center">Java版本</th></tr></thead><tbody><tr><td align="center">≤ 1.16.5</td><td align="center">8</td></tr><tr><td align="center">> 1.16.5</td><td align="center">17</td></tr></tbody></table>
+
 ## 一键切换
 
 对于大部分服务端来说，在不额外安装新`Java`环境的情况下，服务器的Java的环境可以通过下面的方式一键切换8,11,17。您可以在出现的黑窗口中输入所需的`Java`版本后回车，即可调整系统到相应的`Java`版本，此后在启动mc时可以使用相对路径java的写法，即不需要斜杠写不需要写绝对路径。
