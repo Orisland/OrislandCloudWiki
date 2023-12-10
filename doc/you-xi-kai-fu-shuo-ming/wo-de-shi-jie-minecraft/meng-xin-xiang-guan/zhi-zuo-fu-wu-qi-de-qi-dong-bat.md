@@ -26,4 +26,4 @@ description: 如题
 
 <figure><img src="../../../.gitbook/assets/WindowsTerminal_y0U2YTJUfS.gif" alt=""><figcaption><p>java版本查看</p></figcaption></figure>
 
-若出现
+若Java版本与游戏版本一致，则🍉部分可以直接填入 `java`，否则指定具体的Java
