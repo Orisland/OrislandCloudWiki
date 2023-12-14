@@ -60,6 +60,7 @@
       * [修改规范](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/xi-jie-tiao-zheng/xiu-gai-gui-fan.md)
       * [保存](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/xi-jie-tiao-zheng/bao-cun.md)
     * [加入游戏](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/jia-ru-you-xi.md)
+    * [重新开始游戏](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/zhong-xin-kai-shi-you-xi.md)
   * [泰拉瑞亚 Terraria](you-xi-kai-fu-shuo-ming/tai-la-rui-ya-terraria.md)
   * [僵尸毁灭工程 Project Zomboid](you-xi-kai-fu-shuo-ming/jiang-shi-hui-mie-gong-cheng-project-zomboid.md)
   * [饥荒 Don’t Starve](you-xi-kai-fu-shuo-ming/ji-huang-dont-starve.md)
