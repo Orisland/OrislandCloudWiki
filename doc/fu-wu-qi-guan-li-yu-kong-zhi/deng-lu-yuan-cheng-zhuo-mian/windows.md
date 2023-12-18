@@ -10,7 +10,7 @@ description: 本教程为Windows连接。
 
 若此方法无效，请使用下面的方法：
 
-右键你的Windows按钮![](<../../.gitbook/assets/image (7) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)，根据系统来进行图示操作寻找远程桌面程序并打开。
+单机你的Windows按钮![](<../../.gitbook/assets/image (7) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)，根据系统来进行图示操作寻找远程桌面程序并打开。
 
 Win11：
 
