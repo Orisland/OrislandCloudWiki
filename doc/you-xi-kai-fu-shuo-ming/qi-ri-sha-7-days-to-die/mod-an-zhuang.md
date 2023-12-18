@@ -58,7 +58,7 @@ description: 本文将介绍如何为七日杀服务端安装mod
 
 一般情况下，七日杀服务端的根目录为D盘的A21.2文件夹，请打开该文件夹。
 
-一般下载的mod文件为压缩格式，请解压后，把文件夹复制到你的服务端的_<mark style="color:red;">**mods文件夹**</mark>_中。
+一般下载的mod文件为压缩格式，_<mark style="color:red;">**请**</mark><mark style="color:purple;">**解压**</mark><mark style="color:red;">**后(请勿将带有rar或者zip结尾的文件直接放入mods文件夹内)**</mark>_，把文件夹复制到你的服务端的_<mark style="color:red;">**mods文件夹**</mark>_中。
 
 <figure><img src="../../.gitbook/assets/dsLK17dzWp.png" alt=""><figcaption></figcaption></figure>
 
