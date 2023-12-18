@@ -6,6 +6,6 @@
 
 七日杀在服务器中的默认储存位置为D盘的7DaysFile，请删除该文件。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 删除后重启服务端即可。 [#qi-dong](qi-dong-guan-bi-zhong-qi.md#qi-dong "mention")
