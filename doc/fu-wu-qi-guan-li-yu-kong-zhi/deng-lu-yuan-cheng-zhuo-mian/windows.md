@@ -4,11 +4,17 @@ description: 本教程为Windows连接。
 
 # Windows
 
-下载文件后解压后打开文件即可。
+## 打开远程软件
+
+### 方法1
+
+下载文件后解压后打开文件，随后跳转 [#lian-jie-zhuo-mian](windows.md#lian-jie-zhuo-mian "mention")
 
 {% file src="../../.gitbook/assets/启动远程桌面.zip" %}
 
-若此方法无效，请使用下面的方法：
+若此方法无效，请使用下面的方法。
+
+### 方法2
 
 单机你的Windows按钮![](<../../.gitbook/assets/image (7) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)，根据系统来进行图示操作寻找远程桌面程序并打开。
 
@@ -19,6 +25,8 @@ Win11：
 Win10：
 
 <figure><img src="../../.gitbook/assets/mstsc_XtxDbHxnpI.png" alt=""><figcaption></figcaption></figure>
+
+## 链接桌面
 
 窗口出现后，单机显示选项。
 
@@ -41,6 +49,8 @@ Win10：
 进入远程桌面如图所示。
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+## 重要事项
 
 **请进入**[**密码修改章节**](../mi-ma-xiu-gai.md)**，完成服务器的初始化，请勿省略该步骤。**
 
