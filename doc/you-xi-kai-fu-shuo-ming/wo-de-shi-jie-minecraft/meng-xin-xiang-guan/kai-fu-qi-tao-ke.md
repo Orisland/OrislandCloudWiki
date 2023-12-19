@@ -46,6 +46,16 @@ jvm参数配置跳转 [#jvm-can-shu-xiu-gai](kai-fu-qi-tao-ke.md#jvm-can-shu-xiu
 
 <figure><img src="../../../.gitbook/assets/Notepad_NpRrg69PXg.png" alt=""><figcaption></figcaption></figure>
 
+单机附加参数文件，将这段文字粘贴到随后打开的文本中（_**若该文本中已经存在内容，请全部删除**_）。
+
+<figure><img src="../../../.gitbook/assets/服务器管理_qbkAUCIO77.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/服务器管理_G7d7MfFQeN.png" alt=""><figcaption></figcaption></figure>
+
+务必保存该文件。 [bao-cun.md](../../qi-ri-sha-7-days-to-die/xi-jie-tiao-zheng/bao-cun.md "mention")
+
+<figure><img src="../../../.gitbook/assets/Notepad_adyWyGTOCU.png" alt=""><figcaption></figcaption></figure>
+
 打开server文件夹，右击，新建文档，将文件的名称改为start.jar，start可以随意修改，但是请注意_<mark style="color:red;">**不能包含中文和特殊字符（例如空格等符号）**</mark>_。
 
 <figure><img src="../../../.gitbook/assets/explorer_7aBhRZhEkb.png" alt=""><figcaption></figcaption></figure>
