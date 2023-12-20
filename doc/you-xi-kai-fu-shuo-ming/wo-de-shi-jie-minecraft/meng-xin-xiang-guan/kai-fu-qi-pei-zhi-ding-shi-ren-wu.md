@@ -4,7 +4,7 @@ description: 用于定时重启服务器。
 
 # 开服器配置定时任务
 
-本文面向的腐竹为使用开服器开服的玩家。如果你需要该软件方便管理，请看 [kai-fu-qi-tao-ke.md](kai-fu-qi-tao-ke.md "mention")
+本文面向使用开服器的腐竹。如果你需要该软件方便管理，请看 [kai-fu-qi-tao-ke.md](kai-fu-qi-tao-ke.md "mention")
 
 <figure><img src="../../../.gitbook/assets/服务器管理_RAaJahyvfn.png" alt=""><figcaption></figcaption></figure>
 
