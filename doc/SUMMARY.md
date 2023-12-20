@@ -39,6 +39,7 @@
         * [Java切换](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/zhi-zuo-fu-wu-qi-de-qi-dong-bat/java-qie-huan.md)
       * [外部登录](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/wai-bu-deng-lu.md)
       * [开服器套壳](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/kai-fu-qi-tao-ke.md)
+      * [开服器配置定时任务](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/kai-fu-qi-pei-zhi-ding-shi-ren-wu.md)
     * [开服相关整合](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/README.md)
       * [纯净服](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/chun-jing-fu.md)
       * [mod服](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/mod-fu.md)
