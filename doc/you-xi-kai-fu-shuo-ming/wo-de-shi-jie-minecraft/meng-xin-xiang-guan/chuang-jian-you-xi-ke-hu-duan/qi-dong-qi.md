@@ -26,4 +26,6 @@ By龙猫腾跃
 
 强大，全面，绿色，正版。
 
+[https://multimc.org/](https://multimc.org/)
+
 {% embed url="https://files.multimc.org/downloads/mmc-develop-win32.zip" %}
