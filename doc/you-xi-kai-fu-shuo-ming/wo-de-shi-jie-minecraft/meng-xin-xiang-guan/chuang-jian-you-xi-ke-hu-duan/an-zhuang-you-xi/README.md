@@ -20,11 +20,9 @@ description: 本章用于快速安装游戏
 
 ## 游戏安装准备
 
-单机`版本列表`按钮，单机`安装新游戏版本`按钮。
+单机`下载`按钮。
 
-<figure><img src="../../../../../.gitbook/assets/javaw_uWBawT3zv5.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../../../.gitbook/assets/javaw_EAEaUlQaz9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/javaw_yGi8wanrOh.png" alt=""><figcaption></figcaption></figure>
 
 ## 安装需要的游戏
 

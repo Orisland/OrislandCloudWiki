@@ -46,7 +46,7 @@
         * [安装游戏](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/chuang-jian-you-xi-ke-hu-duan/an-zhuang-you-xi/README.md)
           * [纯净](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/chuang-jian-you-xi-ke-hu-duan/an-zhuang-you-xi/chun-jing.md)
           * [整合包](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/chuang-jian-you-xi-ke-hu-duan/an-zhuang-you-xi/zheng-he-bao.md)
-        * [整合包管理](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/chuang-jian-you-xi-ke-hu-duan/zheng-he-bao-guan-li.md)
+        * [游戏管理](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/meng-xin-xiang-guan/chuang-jian-you-xi-ke-hu-duan/you-xi-guan-li.md)
     * [开服相关整合](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/README.md)
       * [纯净服](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/chun-jing-fu.md)
       * [mod服](you-xi-kai-fu-shuo-ming/wo-de-shi-jie-minecraft/kai-fu-xiang-guan-zheng-he/mod-fu.md)
