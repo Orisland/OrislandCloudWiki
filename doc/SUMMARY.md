@@ -94,3 +94,4 @@
   * [dotNetFx40](you-xi-huan-jing/dotnetfx40.md)
 * [系统便携操作](xi-tong-bian-xie-cao-zuo/README.md)
   * [启动命令行](xi-tong-bian-xie-cao-zuo/qi-dong-ming-ling-hang.md)
+  * [在当前目录启动命令行](xi-tong-bian-xie-cao-zuo/zai-dang-qian-mu-lu-qi-dong-ming-ling-hang.md)
