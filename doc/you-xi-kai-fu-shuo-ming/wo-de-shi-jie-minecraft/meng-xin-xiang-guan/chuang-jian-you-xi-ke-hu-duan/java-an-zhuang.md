@@ -36,3 +36,21 @@ description: 若您的电脑从未安装过Java或者您没有听过Java这个�
 
 {% embed url="https://orisland.lanzoul.com/i4kpS1j5146h" %}
 
+## 安装版使用
+
+首先，请先按照您需要的版本在上面的下载地址中下载带有“安装”字样的文件，这里以Java17为例。
+
+<figure><img src="../../../../.gitbook/assets/chrome_kWE4uIJtyu.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/chrome_xg4EFh6jNT.png" alt=""><figcaption></figcaption></figure>
+
+解压下载的文件，得到msi结尾的文件后，双击打开。 [#jie-ya](../../../../fu-wu-qi-guan-li-yu-kong-zhi/shang-chuan-wen-jian/windows/ya-suo-yu-jie-ya.md#jie-ya "mention")
+
+<figure><img src="../../../../.gitbook/assets/explorer_D40AqX2X9j.png" alt=""><figcaption></figcaption></figure>
+
+请一直单机`Next`按钮，安装前的最后一步该按钮会变为`Install`。除非您知道自己在做什么，否则请勿在中途进行修改。
+
+<figure><img src="../../../../.gitbook/assets/msiexec_0nyMkdpDld.png" alt=""><figcaption></figcaption></figure>
+
+## 确定系统的默认Java版本
+
