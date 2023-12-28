@@ -26,6 +26,6 @@ description: 本章用于快速安装游戏
 
 ## 安装需要的游戏
 
-请按需跳转
+请按需跳转。
 
 [chun-jing.md](chun-jing.md "mention")[zheng-he-bao.md](zheng-he-bao.md "mention")
