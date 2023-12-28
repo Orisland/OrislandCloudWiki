@@ -10,6 +10,8 @@ description: 披着正版皮的离线登录
 
 > [https://littleskin.cn/api/yggdrasil](https://littleskin.cn/api/yggdrasil)
 
+顺带提供一份傻瓜式的注册教程，其他自建皮肤站类似 [#zhu-ce-yu-jiao-se-chuang-jian](../../wai-bu-deng-lu.md#zhu-ce-yu-jiao-se-chuang-jian "mention")。
+
 如果您的目标服务器使用的是自建皮肤站，那么您的外部登录地址需要去相关群或频道获取。
 
 这里以littleskin为例演示添加过程，实际情况请自行调整地址。
