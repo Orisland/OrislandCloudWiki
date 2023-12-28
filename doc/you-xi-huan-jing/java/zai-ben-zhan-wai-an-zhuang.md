@@ -4,6 +4,8 @@ description: 本教程用于任何电脑上安装Java环境。
 
 # 在本站外安装
 
+## 清理Java环境
+
 若您是Orisland Cloud的用户，由于文件丢失或者误删需要重新安装JRE，请首先进行文件清理，删除D(E)盘的jre文件夹。
 
 <figure><img src="../../.gitbook/assets/mstsc_xxwZUNJtrr.png" alt=""><figcaption></figcaption></figure>
@@ -22,7 +24,7 @@ description: 本教程用于任何电脑上安装Java环境。
 
 <figure><img src="../../.gitbook/assets/mstsc_JtOicI9igJ.png" alt=""><figcaption></figcaption></figure>
 
-***
+## 安装Java
 
 清理完成后开始Java安装。
 
@@ -42,9 +44,13 @@ description: 本教程用于任何电脑上安装Java环境。
 
 {% embed url="https://cdn.azul.com/zulu/bin/" %}
 
+### 安装版
+
 若选择了安装版直接双击无脑下一步即可完成安装，除非你知道你在做什么，否则可以不需要修改安装过程中的任何默认配置。
 
 <figure><img src="../../.gitbook/assets/mstsc_znTKpsElJR.png" alt=""><figcaption></figcaption></figure>
+
+### 压缩版
 
 若选择了压缩版，则需要继续进行下面的配置。
 
@@ -55,6 +61,8 @@ description: 本教程用于任何电脑上安装Java环境。
 解压完成后到D盘找到你解压的文件夹，进入这个解压的文件夹内，单机地址栏，将地址栏内的所有字符复制备用。
 
 <figure><img src="../../.gitbook/assets/explorer_poLrpa1keZ.png" alt=""><figcaption></figcaption></figure>
+
+#### 环境变量
 
 右键你的Windows按钮![](<../../.gitbook/assets/image (7) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)，选择命令提示符或Windows 终端。
 

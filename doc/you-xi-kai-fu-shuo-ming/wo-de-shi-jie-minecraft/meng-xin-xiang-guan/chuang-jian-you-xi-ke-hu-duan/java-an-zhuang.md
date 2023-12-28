@@ -6,6 +6,8 @@ description: 若您的电脑从未安装过Java或者您没有听过Java这个�
 
 本节仅提供_<mark style="color:red;">**Windows**</mark>_版本_<mark style="color:red;">**64位**</mark>_的Java，不提供MAC，Linux以及其他系统的Java安装包。
 
+首先，您应该确认自己系统的java版本。 [#que-ding-xi-tong-de-mo-ren-java-ban-ben](java-an-zhuang.md#que-ding-xi-tong-de-mo-ren-java-ban-ben "mention")
+
 请根据下面的表格来选择您应该安装的Java版本，一般情况下，您需要使用其他版本的Java。
 
 <table><thead><tr><th width="367" align="center">MC版本</th><th align="center">Java版本</th></tr></thead><tbody><tr><td align="center">≤ 1.16.5</td><td align="center">8</td></tr><tr><td align="center">> 1.16.5</td><td align="center">17</td></tr></tbody></table>
@@ -54,3 +56,14 @@ description: 若您的电脑从未安装过Java或者您没有听过Java这个�
 
 ## 确定系统的默认Java版本
 
+[qi-dong-ming-ling-hang.md](../../../../xi-tong-bian-xie-cao-zuo/qi-dong-ming-ling-hang.md "mention")，输入`java -version`，回车，若如图所示，则安装指定版本`java`成功。
+
+<figure><img src="../../../../.gitbook/assets/WindowsTerminal_YGZnzTyWnG.png" alt=""><figcaption></figcaption></figure>
+
+若出现如下字符，或者出现java安装版本与预期版本不符，则安装出现问题。需要修正环境变量。
+
+<figure><img src="../../../../.gitbook/assets/image (47).png" alt=""><figcaption><p>安装错误</p></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/ApplicationFrameHost_GBTvL46lTL.png" alt=""><figcaption><p>预期安装java17后显示为java8</p></figcaption></figure>
+
+环境变量修正请跳转 [#huan-jing-bian-liang](../../../../you-xi-huan-jing/java/zai-ben-zhan-wai-an-zhuang.md#huan-jing-bian-liang "mention")
