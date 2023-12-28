@@ -34,7 +34,7 @@ description: 分为苹果和安卓两种机型进行叙述。
 
 若为第一次打开软件，首先同意协议。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="307"><figcaption><p>软件例行环节</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="307"><figcaption><p>软件例行环节</p></figcaption></figure>
 
 进入主界面后可在右上角找到加号，单机之后选择添加电脑选项。
 
@@ -58,7 +58,7 @@ description: 分为苹果和安卓两种机型进行叙述。
 
 其他选项可以按需要选择，拖动到下方可以找到，确定修改没有问题之后可以单机右上角保存。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>更多远程连接选项</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>更多远程连接选项</p></figcaption></figure>
 
 随后选择已经添加的桌面，进行远程连接。
 
