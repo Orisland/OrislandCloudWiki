@@ -74,6 +74,7 @@
     * [细节调整](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/xi-jie-tiao-zheng/README.md)
       * [修改规范](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/xi-jie-tiao-zheng/xiu-gai-gui-fan.md)
       * [保存](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/xi-jie-tiao-zheng/bao-cun.md)
+    * [地图配置](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/di-tu-pei-zhi.md)
     * [加入游戏](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/jia-ru-you-xi.md)
     * [重新开始游戏](you-xi-kai-fu-shuo-ming/qi-ri-sha-7-days-to-die/zhong-xin-kai-shi-you-xi.md)
   * [泰拉瑞亚 Terraria](you-xi-kai-fu-shuo-ming/tai-la-rui-ya-terraria.md)
