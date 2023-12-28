@@ -8,11 +8,11 @@ description: 本章包含纯净或干净的forge/fabric/光影安装
 
 <figure><img src="../../../../../.gitbook/assets/javaw_b34GluMdmf.png" alt=""><figcaption></figcaption></figure>
 
-#### （可选）同时安装forge或fabric，以及光影
+#### （可选）安装forge或fabric，以及光影
 
 本节可跳过，如果_您不打算在后续安装光影或者mod_，只想体验**原生版本**，请跳过此步骤。
 
-`forge`，`fabric`，`quilt`，只能存在其一，请在安装前确定自己需要的加载器。光影可以与上述加载器_<mark style="color:blue;">**同时安装**</mark>_，如果需要的话可以点上，1.16.5您可以按自己的需要重新命名，一般情况下应避免汉字。
+`forge`，`fabric`，`quilt`，_<mark style="color:red;">**只能存在其一**</mark>_，请在安装前确定自己需要的加载器，_**不可混用**_。光影可以与上述加载器_<mark style="color:blue;">**同时安装**</mark>_，如果需要的话可以点上，`1.16.5`您可以按自己的需要重新命名，一般情况下应避免汉字。
 
 <figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
