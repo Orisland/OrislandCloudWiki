@@ -64,7 +64,7 @@ description: 本教程用于任何电脑上安装Java环境。
 
 #### 环境变量
 
-右键你的Windows按钮![](<../../.gitbook/assets/image (7) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)，选择命令提示符或Windows 终端。
+右键你的Windows按钮![](<../../.gitbook/assets/image (7) (1) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)，选择命令提示符或Windows 终端。
 
 <figure><img src="../../.gitbook/assets/mstsc_9YT8ECznUG.png" alt=""><figcaption></figcaption></figure>
 
@@ -80,6 +80,6 @@ description: 本教程用于任何电脑上安装Java环境。
 
 <figure><img src="../../.gitbook/assets/SystemPropertiesAdvanced_rqxU2i2aP6.png" alt=""><figcaption></figcaption></figure>
 
-检查可用性，右键您的Windows按钮![](<../../.gitbook/assets/image (7) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)，选择命令提示符或Windows 终端。在黑框中输入java -version，若显示的结果为您刚才已经安装的版本则代表Java环境配置完毕。
+检查可用性，右键您的Windows按钮![](<../../.gitbook/assets/image (7) (1) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)，选择命令提示符或Windows 终端。在黑框中输入java -version，若显示的结果为您刚才已经安装的版本则代表Java环境配置完毕。
 
 <figure><img src="../../.gitbook/assets/WindowsTerminal_KvYl2YGk9e.png" alt=""><figcaption></figcaption></figure>

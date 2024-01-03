@@ -14,7 +14,7 @@ description: 本章包含纯净或干净的forge/fabric/光影安装
 
 `forge`，`fabric`，`quilt`，_<mark style="color:red;">**只能存在其一**</mark>_，请在安装前确定自己需要的加载器，_**不可混用**_。光影可以与上述加载器_<mark style="color:blue;">**同时安装**</mark>_，如果需要的话可以点上，`1.16.5`您可以按自己的需要重新命名，一般情况下应避免汉字。
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 这里以安装`forge`和`光影`为例，单机`forge`后，选择自己需要的`forge版本`（一般为最新）和需要的`光影版本`（一般为最新），之后单机安装即可。
 

@@ -104,3 +104,6 @@
 * [系统便携操作](xi-tong-bian-xie-cao-zuo/README.md)
   * [启动命令行](xi-tong-bian-xie-cao-zuo/qi-dong-ming-ling-hang.md)
   * [在当前目录启动命令行](xi-tong-bian-xie-cao-zuo/zai-dang-qian-mu-lu-qi-dong-ming-ling-hang.md)
+* [MC自嗨](mc-zi-hai/README.md)
+  * [关于服务器卡顿的解决方案](mc-zi-hai/guan-yu-fu-wu-qi-ka-dun-de-jie-jue-fang-an.md)
+  * [外部登陆服务器详细流程](mc-zi-hai/wai-bu-deng-lu-fu-wu-qi-xiang-xi-liu-cheng.md)
