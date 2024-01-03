@@ -8,7 +8,7 @@ description: 若您的电脑从未安装过Java或者您没有听过Java这个�
 
 首先，您应该确认自己系统的java版本。 [#que-ding-xi-tong-de-mo-ren-java-ban-ben](java-an-zhuang.md#que-ding-xi-tong-de-mo-ren-java-ban-ben "mention")
 
-请根据下面的表格来选择您应该安装的Java版本，一般情况下，您需要使用其他版本的Java。
+请根据下面的表格来选择您应该安装的Java版本，一般情况下，您不需要使用表格外的其他版本Java。
 
 <table><thead><tr><th width="367" align="center">MC版本</th><th align="center">Java版本</th></tr></thead><tbody><tr><td align="center">≤ 1.16.5</td><td align="center">8</td></tr><tr><td align="center">> 1.16.5</td><td align="center">17</td></tr></tbody></table>
 
