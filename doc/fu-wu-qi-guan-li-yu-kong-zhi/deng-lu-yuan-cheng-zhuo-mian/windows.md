@@ -12,7 +12,7 @@ description: 本教程为Windows连接。
 
 {% file src="../../.gitbook/assets/启动远程桌面.zip" %}
 
-若此方法无效，请使用下面的方法。
+若此方法无效或无法下载，请使用下面的方法。
 
 ### 方法2
 
