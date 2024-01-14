@@ -19,3 +19,10 @@ description: 用于查看修改文件的后缀
 若修改后打开文件夹，所有文件的后缀已经全部出现则代表更改完成。
 
 <figure><img src="../.gitbook/assets/explorer_6aIV9JvxTE.png" alt=""><figcaption></figcaption></figure>
+
+## Win10
+
+打开系统资源管理器（此电脑），在上方状态条中找查看按钮，在框中启用文件扩展名选项卡。
+
+<figure><img src="../.gitbook/assets/chrome_XDWfAyQz15.png" alt=""><figcaption></figcaption></figure>
+
