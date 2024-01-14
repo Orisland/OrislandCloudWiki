@@ -14,15 +14,15 @@ description: 用于帮助玩家加入多人游戏
 
 打开游戏后单机加入游戏。
 
-<figure><img src="../../.gitbook/assets/7DaysToDie_2vYLKenqcy.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/7DaysToDie_2vYLKenqcy.jpg" alt=""><figcaption></figcaption></figure>
 
 在窗口中单机连接到IP
 
-<figure><img src="../../.gitbook/assets/7DaysToDie_iGAF1gzSjY.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/7DaysToDie_iGAF1gzSjY.png" alt=""><figcaption></figcaption></figure>
 
 请根据您服务器的IP和端口号在IP栏和端口栏进行输入，图中的ip和端口为<mark style="color:red;">**样例**</mark>，<mark style="color:red;">**具体情况请按实际处理**</mark>。
 
-<figure><img src="../../.gitbook/assets/7DaysToDie_CMKLGxsrhA.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/7DaysToDie_CMKLGxsrhA.png" alt=""><figcaption></figcaption></figure>
 
 单机连接即可通过IP加入服务器。
 

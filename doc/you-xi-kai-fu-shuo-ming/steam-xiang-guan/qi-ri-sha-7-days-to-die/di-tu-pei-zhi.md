@@ -8,11 +8,11 @@ description: 本节用于修改七日杀的地图配置
 
 本节以A21.2为例，首先请先打开七日杀的根目录文件夹，找到serverconfig.xml文件。
 
-<figure><img src="../../.gitbook/assets/chrome_TxrSee7jkg.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/chrome_TxrSee7jkg.png" alt=""><figcaption></figcaption></figure>
 
 打开后，请寻找世界设置选项，若没有该汉字，可以寻找GameWorld字段。
 
-<figure><img src="../../.gitbook/assets/chrome_ovujdUT8Xx.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/chrome_ovujdUT8Xx.png" alt=""><figcaption></figcaption></figure>
 
 ## 配置说明
 
@@ -45,7 +45,7 @@ description: 本节用于修改七日杀的地图配置
 
 将`GameWorld`字段对应的value调整为`PREGEN8k`，保存再启动后，服务器地图更换完成。 [#qi-dong](qi-dong-guan-bi-zhong-qi.md#qi-dong "mention")
 
-<figure><img src="../../.gitbook/assets/notepad++_wpdCJyJAch.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/notepad++_wpdCJyJAch.png" alt=""><figcaption></figcaption></figure>
 
 ### 使用全随机地图
 
@@ -57,7 +57,7 @@ description: 本节用于修改七日杀的地图配置
 
 `GameName`字段为具体的地图存放文件夹，您可以修改为其他的名称后让不同配置的地图同时存在，一般情况下可以不修改此名称。
 
-<figure><img src="../../.gitbook/assets/notepad++_3LBehJEJjJ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/notepad++_3LBehJEJjJ.png" alt=""><figcaption></figcaption></figure>
 
 保存再启动后，服务器地图更换完成。 [#qi-dong](qi-dong-guan-bi-zhong-qi.md#qi-dong "mention")
 
