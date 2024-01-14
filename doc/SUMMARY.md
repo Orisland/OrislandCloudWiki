@@ -70,7 +70,6 @@
     * [服务端安装与更新](you-xi-kai-fu-shuo-ming/steam-xiang-guan/an-zhuang-shuo-ming.md)
       * [SteamCMD工具安装](you-xi-kai-fu-shuo-ming/steam-xiang-guan/fu-wu-duan-an-zhuang-yu-geng-xin/steamcmd-gong-ju-an-zhuang.md)
       * [SteamCMD安装任何服务端](you-xi-kai-fu-shuo-ming/steam-xiang-guan/fu-wu-duan-an-zhuang-yu-geng-xin/steamcmd-an-zhuang-ren-he-fu-wu-duan.md)
-      * [服务端更新](you-xi-kai-fu-shuo-ming/steam-xiang-guan/fu-wu-duan-an-zhuang-yu-geng-xin/fu-wu-duan-geng-xin.md)
     * [七日杀 7 Days to Die](you-xi-kai-fu-shuo-ming/steam-xiang-guan/qi-ri-sha-7-days-to-die/README.md)
       * [常见错误处理](you-xi-kai-fu-shuo-ming/steam-xiang-guan/qi-ri-sha-7-days-to-die/chang-jian-cuo-wu-chu-li.md)
       * [启动/关闭/重启](you-xi-kai-fu-shuo-ming/steam-xiang-guan/qi-ri-sha-7-days-to-die/qi-dong-guan-bi-zhong-qi.md)
