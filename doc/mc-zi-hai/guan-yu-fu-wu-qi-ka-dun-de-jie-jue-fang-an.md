@@ -14,9 +14,9 @@ description: 本章用于MC自嗨群登陆专用，相关请找其他页面
 
 这个真没救了，埋了吧。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 使用如下方案：
 
@@ -32,7 +32,7 @@ description: 本章用于MC自嗨群登陆专用，相关请找其他页面
 
 <mark style="color:red;">**直接加速！！**</mark>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

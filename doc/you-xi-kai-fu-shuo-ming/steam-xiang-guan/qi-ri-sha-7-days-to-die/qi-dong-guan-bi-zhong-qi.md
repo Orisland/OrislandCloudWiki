@@ -10,11 +10,11 @@ description: 本篇介绍如何启动七日杀服务器
 
 ## 启动
 
-_<mark style="color:red;">**这个文件不是拿来启动服务器的**</mark>_![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)_<mark style="color:red;">**，不要打开这个文件。**</mark>_
+_<mark style="color:red;">**这个文件不是拿来启动服务器的**</mark>_![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)_<mark style="color:red;">**，不要打开这个文件。**</mark>_
 
-_<mark style="color:red;">**这个文件不是拿来启动服务器的**</mark>_![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)_<mark style="color:red;">**，不要打开这个文件。**</mark>_
+_<mark style="color:red;">**这个文件不是拿来启动服务器的**</mark>_![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)_<mark style="color:red;">**，不要打开这个文件。**</mark>_
 
-_<mark style="color:red;">**这个文件不是拿来启动服务器的**</mark>_![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)_<mark style="color:red;">**，不要打开这个文件。**</mark>_
+_<mark style="color:red;">**这个文件不是拿来启动服务器的**</mark>_![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)_<mark style="color:red;">**，不要打开这个文件。**</mark>_
 
 寻找文件夹中的<mark style="color:red;">`启动服务器.bat`</mark>文件（若该文件不存在，请寻找`startdedicated.bat`这两个文件一样），找到后<mark style="color:red;">双击即可打开</mark>。打开后会先出现一个黑框，无需关闭黑框，等待七日杀服务端本体出现之后可以关闭之前的黑色方框。请注意，在正常的情况下，服务器启动不会有闪退问题，如果七日杀任务栏有闪烁消失的问题，先确认是否七日杀的服务端已经被彻底关闭而不是后台扔在运行，参考 [#fei-zheng-chang-guan-bi](qi-dong-guan-bi-zhong-qi.md#fei-zheng-chang-guan-bi "mention")进行检查。
 
