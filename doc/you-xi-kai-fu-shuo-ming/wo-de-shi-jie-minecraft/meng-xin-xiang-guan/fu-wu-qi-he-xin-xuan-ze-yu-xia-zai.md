@@ -6,6 +6,22 @@ description: 由于mc核心数量和种类繁多，这里仅列举部分使用�
 
 根据您的不同需要选择不同的服务器核心。
 
+|             | mod | 插件 |
+| ----------- | --- | -- |
+| Minecraft原版 | ❌   | ❌  |
+| forge       | ✔   | ❌  |
+| fabric      | ✔   | ❌  |
+| paper       | ❌   | ✔  |
+| spigot      | ❌   | ✔  |
+| purpur      | ❌   | ✔  |
+| SpongForge  | ✔   | ✔  |
+| CatServer   | ✔   | ✔  |
+| Mohist      | ✔   | ✔  |
+| BungeeCord  | \*  | \* |
+| Waterfall   | \*  | \* |
+| Velocity    | \*  | \* |
+| Bedrock     | \*  | \* |
+
 纯Mod服:
 
 [#forge](fu-wu-qi-he-xin-xuan-ze-yu-xia-zai.md#forge "mention")[#fabric](fu-wu-qi-he-xin-xuan-ze-yu-xia-zai.md#fabric "mention")
