@@ -6,21 +6,7 @@ description: 由于mc核心数量和种类繁多，这里仅列举部分使用�
 
 根据您的不同需要选择不同的服务器核心。
 
-|             | mod | 插件 |
-| ----------- | --- | -- |
-| Minecraft原版 | ❌   | ❌  |
-| forge       | ✔   | ❌  |
-| fabric      | ✔   | ❌  |
-| paper       | ❌   | ✔  |
-| spigot      | ❌   | ✔  |
-| purpur      | ❌   | ✔  |
-| SpongForge  | ✔   | ✔  |
-| CatServer   | ✔   | ✔  |
-| Mohist      | ✔   | ✔  |
-| BungeeCord  | \*  | \* |
-| Waterfall   | \*  | \* |
-| Velocity    | \*  | \* |
-| Bedrock     | \*  | \* |
+<table data-full-width="true"><thead><tr><th></th><th>mod</th><th>插件</th><th>附加说明</th></tr></thead><tbody><tr><td>Minecraft原版</td><td>❌</td><td>❌</td><td>纯原版</td></tr><tr><td>forge</td><td>✔</td><td>❌</td><td>可以安装forge mod</td></tr><tr><td>fabric</td><td>✔</td><td>❌</td><td>可以安fabric mod</td></tr><tr><td>paper</td><td>❌</td><td>✔</td><td>经典paper，插件端</td></tr><tr><td>spigot</td><td>❌</td><td>✔</td><td>插件端</td></tr><tr><td>purpur</td><td>❌</td><td>✔</td><td>高性能插件端（自称）</td></tr><tr><td>SpongForge</td><td>✔</td><td>✔</td><td>海绵端</td></tr><tr><td>CatServer</td><td>✔</td><td>✔</td><td>猫端</td></tr><tr><td>Mohist</td><td>✔</td><td>✔</td><td>墨端</td></tr><tr><td>Arclight</td><td>✔</td><td>✔</td><td>弧光端</td></tr><tr><td>BungeeCord</td><td>*</td><td>*</td><td>bc端</td></tr><tr><td>Waterfall</td><td>*</td><td>*</td><td>瀑布端</td></tr><tr><td>Velocity</td><td>*</td><td>*</td><td>新一代反代端</td></tr><tr><td>Bedrock</td><td>*</td><td>*</td><td>基岩端</td></tr></tbody></table>
 
 纯Mod服:
 
