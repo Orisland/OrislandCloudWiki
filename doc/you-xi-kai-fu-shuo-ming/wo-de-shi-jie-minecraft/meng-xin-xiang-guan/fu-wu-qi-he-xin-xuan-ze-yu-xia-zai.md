@@ -56,11 +56,9 @@ fabric
 
 ## Spigot
 
-最经典的插件核心，官方没有提供直接的下载，需要自行构建，需要一定的技术门槛，建议选择下面的。
+经典的插件核心，一直在更新，历史悠久。
 
-{% embed url="https://www.spigotmc.org/" %}
-spigot
-{% endembed %}
+{% embed url="https://getbukkit.org/download/spigot" %}
 
 ## CraftBukkit
 
@@ -72,7 +70,7 @@ spigot
 
 ## Paper
 
-目前使用最普遍性能相对更好的经典插件服核心。
+目前使用最普遍性能相对较好的经典插件服核心。
 
 {% embed url="https://papermc.io/downloads/paper" %}
 paper
