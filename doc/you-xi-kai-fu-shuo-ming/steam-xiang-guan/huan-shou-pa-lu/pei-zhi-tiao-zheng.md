@@ -8,15 +8,15 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 
 打开palserver目录![](../../../.gitbook/assets/image.png)，找到![](<../../../.gitbook/assets/image (1).png>)
 
-复制该文件到, PalServer\Pal\Saved\Config\WindowsServer
+复制该文件到, `PalServer\Pal\Saved\Config\WindowsServer`
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-复制完成后，删除这个文件夹中的PalWorldSettings.ini文件。
+复制完成后，删除这个文件夹中的`PalWorldSettings.ini`文件。
 
 <figure><img src="../../../.gitbook/assets/explorer_SICR1iiaYm.png" alt=""><figcaption></figcaption></figure>
 
-将刚才复制过来的文件，去掉开头的Default，将DefaultPalWorldSettings.ini改成PalWorldSettings.ini
+将刚才复制过来的文件，去掉开头的`Default`，将`DefaultPalWorldSettings.ini`改成`PalWorldSettings.ini`
 
 <figure><img src="../../../.gitbook/assets/explorer_ckH3E6Gkxs.png" alt=""><figcaption></figcaption></figure>
 
@@ -74,15 +74,15 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 
 修改举例，将死亡掉落修改为死亡不掉落任何物品。
 
-打开PalWorldSettings.ini文件，按住键盘ctrl + f或notepad++中的这个按钮。
+打开`PalWorldSettings.ini`文件，按住键盘`ctrl + f`或notepad++中的这个按钮。
 
 <figure><img src="../../../.gitbook/assets/notepad++_qmy4tZbday (1).png" alt=""><figcaption></figcaption></figure>
 
-在弹出的窗口中输入DeathPenalty。
+在弹出的窗口中输入`DeathPenalty`。
 
 <figure><img src="../../../.gitbook/assets/notepad++_GiTPFNNAnW.png" alt=""><figcaption></figcaption></figure>
 
-找到匹配项后，将等号后面的ALL修改为表格中提到的None。
+找到匹配项后，将等号后面的`ALL`修改为表格中提到的`None`。
 
 <figure><img src="../../../.gitbook/assets/notepad++_8b9YoQrKhj.png" alt=""><figcaption></figcaption></figure>
 
