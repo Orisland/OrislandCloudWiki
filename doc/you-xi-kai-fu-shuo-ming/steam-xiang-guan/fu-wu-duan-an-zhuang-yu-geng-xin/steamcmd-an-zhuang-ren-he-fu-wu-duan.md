@@ -68,7 +68,7 @@ SteamCMD允许使用匿名的方式登录下载服务器（即使您的steam内�
 
 修改完成后，如图所示。若后续仍需要对文件进行修改，可以右击bat文件，单机编辑（win11请单机显示更多选项后寻找）
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 双击打开等待安装完成，具体速度根据各位的实际网速（或服务器网速）来决定。
 
@@ -106,7 +106,7 @@ SteamCMD允许使用匿名的方式登录下载服务器（即使您的steam内�
 
 修改完成后，如图所示。若后续仍需要对文件进行修改，可以右击bat文件，单机编辑（win11请单机显示更多选项后寻找）
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 双击打开等待安装完成，具体速度根据各位的实际网速（或服务器网速）来决定。
 
