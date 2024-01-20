@@ -4,7 +4,7 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 
 # 配置调整
 
-> 诶之本教程为临时教程，等待细化。
+> 诶之本教程为<mark style="color:red;">**临时教程**</mark>，等待细化。
 
 打开palserver目录![](../../../.gitbook/assets/image.png)，找到![](<../../../.gitbook/assets/image (1).png>)
 
@@ -30,7 +30,7 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 
 <figure><img src="../../../.gitbook/assets/notepad++_451goFUD1G.png" alt=""><figcaption></figcaption></figure>
 
-附带配置对照表。
+附带配置对照表(_<mark style="color:blue;">**自翻加工，仅供参考不排除错误的可能性，需后期矫正**</mark>_)。
 
 | Difficulty                         | Difficulty                                                                                                    |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------- |
