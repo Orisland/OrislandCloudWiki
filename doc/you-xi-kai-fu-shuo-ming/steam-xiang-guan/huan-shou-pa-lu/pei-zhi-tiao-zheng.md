@@ -4,7 +4,7 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 
 # 配置调整
 
-> 诶之本教程为<mark style="color:red;">**临时教程**</mark>，等待细化。
+> 本教程为<mark style="color:red;">**临时教程**</mark>，等待细化。
 
 打开palserver目录![](../../../.gitbook/assets/image.png)，找到![](<../../../.gitbook/assets/image (1).png>)
 
