@@ -5,6 +5,8 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 # 配置调整
 
 > 本教程为<mark style="color:red;">**临时教程**</mark>，等待细化。
+>
+> 2024/1/22日之后配置的所有进行了一些初始化操作，可以直接跳转到对照表进行查看 [#dui-zhao-biao](pei-zhi-tiao-zheng.md#dui-zhao-biao "mention")
 
 打开palserver目录![](../../../.gitbook/assets/image.png)，找到![](<../../../.gitbook/assets/image (1).png>)
 
@@ -29,6 +31,8 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 打开后的结果是这样的则没有问题。
 
 <figure><img src="../../../.gitbook/assets/notepad++_451goFUD1G.png" alt=""><figcaption></figcaption></figure>
+
+## 对照表
 
 附带配置对照表(_<mark style="color:blue;">**自翻加工，仅供参考不排除错误的可能性，需后期矫正**</mark>_)。
 
