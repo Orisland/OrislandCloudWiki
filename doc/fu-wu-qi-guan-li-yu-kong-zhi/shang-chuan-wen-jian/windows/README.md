@@ -12,9 +12,17 @@ description: 文件传输
 
 下面将详细列举三种不同的方式进行文件传输，可以单机下面的标签进行快速跳转。
 
-[#kuo-yong-yu-zhong-xiao-wen-jian-de-chuan-shu](./#kuo-yong-yu-zhong-xiao-wen-jian-de-chuan-shu "mention") [#xiao-wen-jian-chuan-shu](./#xiao-wen-jian-chuan-shu "mention") [#chao-da-wen-jian-chuan-shu](./#chao-da-wen-jian-chuan-shu "mention")
+&#x20;[#zhong-xiao-wen-jian-chuan-shu](./#zhong-xiao-wen-jian-chuan-shu "mention") [#zhong-da-wen-jian-de-chuan-shu](./#zhong-da-wen-jian-de-chuan-shu "mention") [#chao-da-wen-jian-chuan-shu](./#chao-da-wen-jian-chuan-shu "mention")
 
-## 适用于中小文件的传输
+## 中小文件传输
+
+对于容量本身就不大的文件来说，您可以采取复制粘贴的方式直接进行传输。请注意，这种复制可能在由于网络波动而导致中断，越大的文件失败率越高，这种复制在中断后无法恢复，且服务器会留下不完整的文件，请在失败后进行删除。
+
+下面的gif将演示如何通过复制和粘贴的方式将本地的文件复制到服务器，请注意在任何情况下应该尽量避免直接复制文件夹。
+
+<figure><img src="../../../.gitbook/assets/explorer_nnX474pFKP.gif" alt=""><figcaption><p>复制文件</p></figcaption></figure>
+
+## 中大文件的传输
 
 本方法实际上也可以进行大文件的传输但是免费的次数有限。
 
@@ -29,14 +37,6 @@ description: 文件传输
 下面给出gif动画进行相关参考，gif动画演示的为多文件上传和打包下载过程，另外由于匿名上传的限制性，推荐在传输大量文件的时候，先在网站进行登录，可以使用微信或者QQ直接登录，单个小文件一般不需要进行登录即可下载。
 
 <figure><img src="../../../.gitbook/assets/explorer_P8aH4H64iO.gif" alt=""><figcaption></figcaption></figure>
-
-## 小文件传输
-
-对于容量本身就不大的文件来说，您可以采取复制粘贴的方式直接进行传输。请注意，这种复制可能在由于网络波动而导致中断，越大的文件失败率越高，这种复制在中断后无法恢复，且服务器会留下不完整的文件，请在失败后进行删除。
-
-下面的gif将演示如何通过复制和粘贴的方式将本地的文件复制到服务器，请注意在任何情况下应该尽量避免直接复制文件夹。
-
-<figure><img src="../../../.gitbook/assets/explorer_nnX474pFKP.gif" alt=""><figcaption><p>复制文件</p></figcaption></figure>
 
 ## 超大文件传输
 
