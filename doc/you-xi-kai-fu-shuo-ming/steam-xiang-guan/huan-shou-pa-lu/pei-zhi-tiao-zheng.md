@@ -4,7 +4,9 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 
 # 配置调整
 
-> 2024/1/22日之后配置的所有进行了一些初始化操作，可以直接跳转到对照表进行查看 [#dui-zhao-biao](pei-zhi-tiao-zheng.md#dui-zhao-biao "mention")
+> 2024/1/22日之后配置的所有进行了一些初始化操作，可以直接跳转到对照表进行查看
+>
+> [#pei-zhi-dui-zhao-biao](pei-zhi-tiao-zheng.md#pei-zhi-dui-zhao-biao "mention")
 
 ## 配置文件初始化
 
