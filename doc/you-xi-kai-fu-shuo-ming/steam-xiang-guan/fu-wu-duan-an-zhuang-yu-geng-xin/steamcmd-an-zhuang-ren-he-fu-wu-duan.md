@@ -26,13 +26,13 @@ description: 仅限Steam服务端
 
 ## 服务端下载安装
 
-### 获取服务端SteamID
+### 获取服务端AppID
 
 您首先需要在您的电脑上打开steam，查询星界边境游戏的英文名称，如图所示，Starbound。
 
 <figure><img src="../../../.gitbook/assets/steamwebhelper_vKsXYlbTo0.png" alt=""><figcaption></figcaption></figure>
 
-复制名称后在 [#zhun-bei](steamcmd-an-zhuang-ren-he-fu-wu-duan.md#zhun-bei "mention")中提到的地址1或者地址2进行相关的搜索，这里以地址2为例，可以得知starbound的steam id为[533830](https://steamdb.info/app/533830/)
+复制名称后在 [#zhun-bei](steamcmd-an-zhuang-ren-he-fu-wu-duan.md#zhun-bei "mention")中提到的地址1或者地址2进行相关的搜索，这里以地址2为例，可以得知starbound的App id为[533830](https://steamdb.info/app/533830/)
 
 <figure><img src="../../../.gitbook/assets/chrome_qzkiS89jHY.png" alt=""><figcaption></figcaption></figure>
 
@@ -56,9 +56,9 @@ SteamCMD允许使用匿名的方式登录下载服务器（即使您的steam内�
 
 请根据自身的情况改动下面的代码，并将改动后的代码复制到该文件中。
 
-> steamcmd +login anonymous +force\_install\_dir 安装地址 +app\_update 游戏的SteamID validate +quit pause
+> steamcmd +login anonymous +force\_install\_dir 安装地址 +app\_update 游戏的AppID validate +quit pause
 
-比如这里[查询饥荒的服务端](steamcmd-an-zhuang-ren-he-fu-wu-duan.md#huo-qu-fu-wu-duan-steamid)SteamID为<mark style="color:blue;">343050</mark>，我希望将饥荒服务端下载到<mark style="color:blue;">`D:\Game\steamcmd\starbound`</mark>，那么上面的代码可以修改为如下所示，红色字体为发生修改的部分。
+比如这里[查询饥荒的服务端](steamcmd-an-zhuang-ren-he-fu-wu-duan.md#huo-qu-fu-wu-duan-steamid)AppID为<mark style="color:blue;">343050</mark>，我希望将饥荒服务端下载到<mark style="color:blue;">`D:\Game\steamcmd\starbound`</mark>，那么上面的代码可以修改为如下所示，红色字体为发生修改的部分。
 
 > steamcmd +login anonymous +force\_install\_dir <mark style="color:red;">`D:\Game\steamcmd\starbound`</mark> +app\_update <mark style="color:red;">343050</mark> validate +quit pause
 
@@ -90,13 +90,13 @@ SteamCMD允许使用匿名的方式登录下载服务器（即使您的steam内�
 
 <figure><img src="../../../.gitbook/assets/WindowsTerminal_29ClyEPNBK.png" alt=""><figcaption></figcaption></figure>
 
-这里以星界边境的服务端为例，[经查询](steamcmd-an-zhuang-ren-he-fu-wu-duan.md#huo-qu-fu-wu-duan-steamid)，星界边境服务端的SteamID为533830。
+这里以星界边境的服务端为例，[经查询](steamcmd-an-zhuang-ren-he-fu-wu-duan.md#huo-qu-fu-wu-duan-steamid)，星界边境服务端的AppID为533830。
 
 请根据自身的情况改动下面的代码，并将改动后的代码复制到该文件中。
 
-> steamcmd +login steam账号 steam密码 +force\_install\_dir 安装地址 +app\_update 服务端SteamID validate +quit pause
+> steamcmd +login steam账号 steam密码 +force\_install\_dir 安装地址 +app\_update 服务端AppID validate +quit pause
 
-比如这里[查询星界边境的服务端](steamcmd-an-zhuang-ren-he-fu-wu-duan.md#huo-qu-fu-wu-duan-steamid)SteamID为533830，我希望将饥荒服务端下载到<mark style="color:blue;">`D:\Game\steamcmd\starbound`</mark>，那么上面的代码可以修改为如下所示，红色字体为发生修改的部分。
+比如这里[查询星界边境的服务端](steamcmd-an-zhuang-ren-he-fu-wu-duan.md#huo-qu-fu-wu-duan-steamid)<mark style="color:blue;">AppID</mark>为533830，我希望将饥荒服务端下载到<mark style="color:blue;">`D:\Game\steamcmd\starbound`</mark>，那么上面的代码可以修改为如下所示，红色字体为发生修改的部分。
 
 > steamcmd +login 我的steam账号 我的steam密码 +force\_install\_dir <mark style="color:red;">`D:\Game\steamcmd\starbound`</mark> +app\_update <mark style="color:red;">533830</mark> validate +quit pause
 
