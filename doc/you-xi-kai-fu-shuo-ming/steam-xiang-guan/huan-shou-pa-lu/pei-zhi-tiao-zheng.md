@@ -97,4 +97,4 @@ _**本节对于部分帕鲁的服务端来说为多余项**_，可以跳过到 [
 
 <figure><img src="../../../.gitbook/assets/notepad++_W8XYxnv8Ir.png" alt=""><figcaption></figcaption></figure>
 
-修改完成后保存，启动或重启服务器。 [bao-cun.md](../qi-ri-sha-7-days-to-die/xi-jie-tiao-zheng/bao-cun.md "mention")
+修改完成后_<mark style="color:red;">**保存**</mark>_，启动或重启服务器，配置文件不重启是无效的请务必注意。 [bao-cun.md](../qi-ri-sha-7-days-to-die/xi-jie-tiao-zheng/bao-cun.md "mention")
