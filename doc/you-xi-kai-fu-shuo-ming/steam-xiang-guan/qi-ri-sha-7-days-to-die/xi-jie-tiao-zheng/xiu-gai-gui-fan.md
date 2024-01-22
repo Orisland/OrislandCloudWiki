@@ -14,7 +14,7 @@ description: 修改规范
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>错误样例1</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>错误样例2</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>错误样例2</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/notepad++_31TQcWTObF.png" alt=""><figcaption><p>错误样例3</p></figcaption></figure>
 

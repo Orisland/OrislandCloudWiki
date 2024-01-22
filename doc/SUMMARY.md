@@ -121,6 +121,8 @@
   * [显示文件后缀](xi-tong-bian-xie-cao-zuo/xian-shi-wen-jian-hou-zhui.md)
   * [通过端口找占用的程序](xi-tong-bian-xie-cao-zuo/tong-guo-duan-kou-zhao-zhan-yong-de-cheng-xu.md)
   * [任务管理器](xi-tong-bian-xie-cao-zuo/ren-wu-guan-li-qi.md)
+  * [开机自启](xi-tong-bian-xie-cao-zuo/kai-ji-zi-qi/README.md)
+    * [简单开机自启](xi-tong-bian-xie-cao-zuo/kai-ji-zi-qi/jian-dan-kai-ji-zi-qi.md)
 * [MC自嗨](mc-zi-hai/README.md)
   * [关于服务器卡顿的解决方案](mc-zi-hai/guan-yu-fu-wu-qi-ka-dun-de-jie-jue-fang-an.md)
   * [外部登陆服务器详细流程](mc-zi-hai/wai-bu-deng-lu-fu-wu-qi-xiang-xi-liu-cheng.md)

@@ -12,7 +12,7 @@ description: 用于定时重启服务器。
 
 <figure><img src="../../../.gitbook/assets/服务器管理_rtS7qmSEOl.png" alt=""><figcaption></figcaption></figure>
 
-上方任务列表中出现刚刚添加的计划后，记录这个新增的任务id，如图中为![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)，具体以实际为准。_<mark style="color:red;">**随后关闭开服器**</mark>_。
+上方任务列表中出现刚刚添加的计划后，记录这个新增的任务id，如图中为![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)，具体以实际为准。_<mark style="color:red;">**随后关闭开服器**</mark>_。
 
 <figure><img src="../../../.gitbook/assets/服务器管理_fUTCqa7n0i.png" alt=""><figcaption></figcaption></figure>
 

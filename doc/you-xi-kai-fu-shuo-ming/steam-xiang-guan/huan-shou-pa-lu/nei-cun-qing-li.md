@@ -14,7 +14,7 @@ description: RT
 
 {% embed url="https://orisland.lanzoul.com/ipFXB1lysaqb" %}
 
-下载后打开，除非你知道自己在做什么，可以一路下一步到![](../../../.gitbook/assets/image.png)完成。
+下载后打开，除非你知道自己在做什么，可以一路下一步到![](<../../../.gitbook/assets/image (2).png>)完成。
 
 <figure><img src="../../../.gitbook/assets/mstsc_oaVPRVufy6.png" alt=""><figcaption></figcaption></figure>
 

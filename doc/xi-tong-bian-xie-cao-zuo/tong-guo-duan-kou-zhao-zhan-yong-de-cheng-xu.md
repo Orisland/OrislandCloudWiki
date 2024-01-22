@@ -16,7 +16,7 @@
 
 <figure><img src="../.gitbook/assets/mstsc_SywXVyk78L.png" alt=""><figcaption><p>找到对象</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 找到对象的情况下，可以看到最右侧有一个数字，这个数字可以很大可以很小，需要记录该数字，重新放入上面提到的代码中，比如上图的`6676`.
 

@@ -42,6 +42,18 @@ description: RT
 
 <figure><img src="../../../.gitbook/assets/mstsc_Xt8ygKcLEU.png" alt=""><figcaption></figcaption></figure>
 
+## 参数修改
+
+单机设置。
+
+<figure><img src="../../../.gitbook/assets/mstsc_jZuY4ICqPU.png" alt=""><figcaption></figcaption></figure>
+
+配置保活软件开机自启，如果开机自启中已经包含了服务端，可以先移除服务端启动防止重复自启或者将上面配置中的等待时间略微延长。查看服务器有哪些简单的开机自启项： [jian-dan-kai-ji-zi-qi.md](../../../xi-tong-bian-xie-cao-zuo/kai-ji-zi-qi/jian-dan-kai-ji-zi-qi.md "mention")
+
+`宽限期`指当服务器频繁崩溃(崩溃间隔小于宽限期)时，最短重启间隔来避免程序因问题反复崩溃重启浪费系统资源。
+
+<figure><img src="../../../.gitbook/assets/mstsc_QgsmEU5KJb.png" alt=""><figcaption></figcaption></figure>
+
 ## TIPs
 
 注意当服务器因内存溢出崩溃时，服务器<mark style="color:purple;">**有概率会直接进入黑屏状态**</mark>(内存过低直接把服务器本身也杀了)，这种情况<mark style="color:purple;">**软件无能为力**</mark>，<mark style="color:red;">需联系管理员协助重启</mark>。
