@@ -4,11 +4,13 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 
 # 配置调整
 
-> 本教程为<mark style="color:red;">**临时教程**</mark>，等待细化。
->
 > 2024/1/22日之后配置的所有进行了一些初始化操作，可以直接跳转到对照表进行查看 [#dui-zhao-biao](pei-zhi-tiao-zheng.md#dui-zhao-biao "mention")
 
-打开palserver目录![](../../../.gitbook/assets/image.png)，找到![](<../../../.gitbook/assets/image (1).png>)
+## 配置文件初始化
+
+_**本节对于部分帕鲁的服务端来说为多余项**_，可以跳过到 [#dui-zhao-biao](pei-zhi-tiao-zheng.md#dui-zhao-biao "mention")
+
+打开`PalServer`目录![](../../../.gitbook/assets/image.png)，找到![](<../../../.gitbook/assets/image (1).png>)
 
 复制该文件到, `PalServer\Pal\Saved\Config\WindowsServer`
 
@@ -32,12 +34,13 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 
 <figure><img src="../../../.gitbook/assets/notepad++_451goFUD1G.png" alt=""><figcaption></figcaption></figure>
 
-## 对照表
+## 配置对照表
 
 附带配置对照表(_<mark style="color:blue;">**自翻加工，仅供参考不排除错误的可能性，需后期矫正**</mark>_)。
 
-| Difficulty                         | Difficulty                                                                                                    |
+| 可配置项                               | 值                                                                                                             |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Difficulty                         | 难度 **(官方暂时未给出可供修改的值)**                                                                                        |
 | DayTimeSpeedRate                   | 白天速率                                                                                                          |
 | NightTimeSpeedRate                 | 夜晚速率                                                                                                          |
 | ExpRate                            | 经验倍率                                                                                                          |
@@ -75,6 +78,8 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 | RCONPort                           | 配置RCON的端口                                                                                                     |
 
 可以对照此表修改配置改成适合自己的配置。
+
+## 修改样例示范
 
 修改举例，将死亡掉落修改为死亡不掉落任何物品。
 

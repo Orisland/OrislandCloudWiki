@@ -73,6 +73,7 @@
     * [幻兽帕鲁](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/README.md)
       * [安装](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/an-zhuang.md)
       * [配置调整](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/pei-zhi-tiao-zheng.md)
+      * [启动，关闭](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/qi-dong-guan-bi.md)
     * [七日杀 7 Days to Die](you-xi-kai-fu-shuo-ming/steam-xiang-guan/qi-ri-sha-7-days-to-die/README.md)
       * [常见错误处理](you-xi-kai-fu-shuo-ming/steam-xiang-guan/qi-ri-sha-7-days-to-die/chang-jian-cuo-wu-chu-li.md)
       * [启动/关闭/重启](you-xi-kai-fu-shuo-ming/steam-xiang-guan/qi-ri-sha-7-days-to-die/qi-dong-guan-bi-zhong-qi.md)
