@@ -73,6 +73,8 @@
     * [幻兽帕鲁](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/README.md)
       * [安装](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/an-zhuang.md)
       * [配置调整](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/pei-zhi-tiao-zheng.md)
+      * [启动参数](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/qi-dong-can-shu/README.md)
+        * [参数一览](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/qi-dong-can-shu/can-shu-yi-lan.md)
       * [启动，关闭](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/qi-dong-guan-bi.md)
       * [内存清理](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/nei-cun-qing-li.md)
     * [七日杀 7 Days to Die](you-xi-kai-fu-shuo-ming/steam-xiang-guan/qi-ri-sha-7-days-to-die/README.md)
