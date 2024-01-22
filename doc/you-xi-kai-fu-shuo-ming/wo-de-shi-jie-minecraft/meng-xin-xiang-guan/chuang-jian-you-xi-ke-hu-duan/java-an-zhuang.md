@@ -58,7 +58,7 @@ description: 若您的电脑从未安装过Java或者您没有听过Java这个�
 
 跳转回开头 [java-an-zhuang.md](java-an-zhuang.md "mention")。
 
-[qi-dong-ming-ling-hang.md](../../../../xi-tong-bian-xie-cao-zuo/qi-dong-ming-ling-hang.md "mention")，输入`java -version`，回车，若如图所示，则安装指定版本`java`成功。
+[qi-dong-ming-ling-hang](../../../../xi-tong-bian-xie-cao-zuo/qi-dong-ming-ling-hang/ "mention")，输入`java -version`，回车，若如图所示，则安装指定版本`java`成功。
 
 <figure><img src="../../../../.gitbook/assets/WindowsTerminal_YGZnzTyWnG.png" alt=""><figcaption></figcaption></figure>
 
