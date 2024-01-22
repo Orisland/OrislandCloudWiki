@@ -78,6 +78,7 @@
       * [启动，关闭](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/qi-dong-guan-bi.md)
       * [服务端更新](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/fu-wu-duan-geng-xin.md)
       * [崩溃自启](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/beng-kui-zi-qi.md)
+      * [存档定时备份](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/cun-dang-ding-shi-bei-fen.md)
       * [内存清理](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/nei-cun-qing-li.md)
     * [七日杀 7 Days to Die](you-xi-kai-fu-shuo-ming/steam-xiang-guan/qi-ri-sha-7-days-to-die/README.md)
       * [常见错误处理](you-xi-kai-fu-shuo-ming/steam-xiang-guan/qi-ri-sha-7-days-to-die/chang-jian-cuo-wu-chu-li.md)
