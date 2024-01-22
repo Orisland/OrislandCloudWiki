@@ -10,11 +10,11 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 
 _**本节对于部分帕鲁的服务端来说为多余项**_，可以跳过到 [#dui-zhao-biao](pei-zhi-tiao-zheng.md#dui-zhao-biao "mention")
 
-打开`PalServer`目录![](../../../.gitbook/assets/image.png)，找到![](<../../../.gitbook/assets/image (1).png>)
+打开`PalServer`目录![](<../../../.gitbook/assets/image (2).png>)，找到![](<../../../.gitbook/assets/image (1) (1).png>)
 
 复制该文件到, `PalServer\Pal\Saved\Config\WindowsServer`
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 复制完成后，删除这个文件夹中的`PalWorldSettings.ini`文件。
 
