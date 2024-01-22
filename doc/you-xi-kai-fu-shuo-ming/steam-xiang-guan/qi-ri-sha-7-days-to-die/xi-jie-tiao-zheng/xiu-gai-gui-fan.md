@@ -12,7 +12,7 @@ description: 修改规范
 
 下面将列举<mark style="color:red;">**错误的修改方式**</mark>，请注意避免。因为人与人的大脑结构各不相同，所以这里只列举的部分常见错误。
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>错误样例1</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>错误样例1</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>错误样例2</p></figcaption></figure>
 
