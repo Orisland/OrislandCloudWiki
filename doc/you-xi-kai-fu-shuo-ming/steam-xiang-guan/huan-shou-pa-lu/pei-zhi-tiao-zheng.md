@@ -10,7 +10,7 @@ description: 本章用于介绍如何调整帕鲁的基础设置
 
 ## 配置文件初始化
 
-_**本节对于部分帕鲁的服务端来说为多余项**_，可以跳过到 [#dui-zhao-biao](pei-zhi-tiao-zheng.md#dui-zhao-biao "mention")
+_**本节对于部分帕鲁的服务端来说为多余项**_，可以跳过到 [#pei-zhi-dui-zhao-biao](pei-zhi-tiao-zheng.md#pei-zhi-dui-zhao-biao "mention")
 
 打开`PalServer`目录![](<../../../.gitbook/assets/image (3).png>)，找到![](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
@@ -42,7 +42,7 @@ _**本节对于部分帕鲁的服务端来说为多余项**_，可以跳过到 [
 
 | 可配置项                               | 值                                                                                                             |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Difficulty                         | 难度 **(官方暂时未给出可供修改的值)**                                                                                        |
+| Difficulty                         | <p>难度:</p><p>None或Difficulty</p>                                                                              |
 | DayTimeSpeedRate                   | 白天速率                                                                                                          |
 | NightTimeSpeedRate                 | 夜晚速率                                                                                                          |
 | ExpRate                            | 经验倍率                                                                                                          |
