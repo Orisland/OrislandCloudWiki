@@ -40,7 +40,7 @@ description: RT
 
 新建文本文档起名为更新，并写入如下字符，注意`pause`为第二行。
 
-> steamcmd +login anonymous +force\_install\_dir <mark style="color:red;">帕鲁服务器地址</mark> +app\_update 2394010 validate +quit
+> steamcmd +login anonymous +force\_install\_dir <mark style="color:red;">帕鲁服务器安装地址</mark> +app\_update 2394010 validate +quit
 >
 > pause
 
