@@ -18,15 +18,19 @@ description: 本配置可以对服务器的启动效果产生一些影响
 
 <figure><img src="../../../../.gitbook/assets/mstsc_2ZdmqKOLxl.png" alt=""><figcaption></figcaption></figure>
 
-将PalServer.exe填入文件。
+将`PalServer.exe`填入文件。
 
 <figure><img src="../../../../.gitbook/assets/mstsc_qYPTirw7GB.png" alt=""><figcaption></figcaption></figure>
 
-在PalServer.exe字段后面加个空格，然后继续输入后续的启动参数。
+在`PalServer.exe`字段后面加个空格，然后继续输入后续的启动参数。
 
 需要知道这里能填入什么参数可以看 [can-shu-yi-lan.md](can-shu-yi-lan.md "mention")。
 
 这里以修改端口为例，目的将默认的8211端口修改25565端口启动服务端。
+
+> _<mark style="color:red;">**不要自作聪明的把参数另起一行，无论参数有多长都必须写在一行里，另起一行的所有参数无效。**</mark>_
+>
+> ![](../../../../.gitbook/assets/mstsc\_9fUwSWN3DZ.png)
 
 <figure><img src="../../../../.gitbook/assets/mstsc_T2hOWa592z.png" alt=""><figcaption></figcaption></figure>
 
