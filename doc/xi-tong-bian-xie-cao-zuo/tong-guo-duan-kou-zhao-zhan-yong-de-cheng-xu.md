@@ -28,7 +28,7 @@
 
 > taskkill /F /PID <mark style="color:red;">**6676**</mark>
 
-若你需要知道是具体什么程序，你可以先打开任务管理器，切换到详细信息标签，单机PID，让任务管理器按PID排序。 [ren-wu-guan-li-qi.md](ren-wu-guan-li-qi.md "mention")
+若你需要知道是具体什么程序，你可以先打开任务管理器，切换到详细信息标签，单机PID，让任务管理器按PID排序。 [ren-wu-guan-li-qi](ren-wu-guan-li-qi/ "mention")
 
 <figure><img src="../.gitbook/assets/mstsc_sjDKslHC01.png" alt=""><figcaption></figcaption></figure>
 
