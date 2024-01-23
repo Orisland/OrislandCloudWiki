@@ -12,7 +12,7 @@ description: RT
 
 <mark style="color:red;">**请在更新前，确认服务端已经关闭。**</mark>
 
-**快速跳转** [#ruodpan-yi-cun-zai-geng-xin-bat](fu-wu-duan-an-zhuang-yu-geng-xin.md#ruodpan-yi-cun-zai-geng-xin-bat "mention") [#ruodpan-bu-cun-zai-ruan-jian](fu-wu-duan-an-zhuang-yu-geng-xin.md#ruodpan-bu-cun-zai-ruan-jian "mention")
+**快速跳转** [#ruodpan-yi-cun-zai-geng-xin-bat](fu-wu-duan-an-zhuang-yu-geng-xin.md#ruodpan-yi-cun-zai-geng-xin-bat "mention") [#ruodpan-bu-cun-zai-geng-xin-bat](fu-wu-duan-an-zhuang-yu-geng-xin.md#ruodpan-bu-cun-zai-geng-xin-bat "mention")
 
 ## 若D盘已存在更新bat
 
@@ -20,7 +20,7 @@ description: RT
 
 <figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-若程序卡在如图所示位置，并出现retry的标识，请您关闭该黑框后重新打开，是steam服务器连接不稳定导致。
+若程序卡在如图所示位置，并出现`retry`的标识，请您关闭该黑框后重新打开，是`steam`服务器连接不稳定导致。
 
 <figure><img src="../../../.gitbook/assets/chrome_K5Ffi0LYCt.png" alt=""><figcaption></figcaption></figure>
 
