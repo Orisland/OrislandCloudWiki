@@ -2,15 +2,17 @@
 description: RT
 ---
 
-# 服务端更新
+# 服务端安装与更新
 
-服务端更新目前提供借助`SteamCmd`工具的方式进行。
+服务端安装和更新目前提供借助`SteamCmd`工具的方式进行。
+
+安装和更新同理，可以直接按更新的流程进行服务器的安装。
 
 请先下载`SteamCMD`章节的软件 [#fu-wu-duan-xia-zai-an-zhuang](../fu-wu-duan-an-zhuang-yu-geng-xin/steamcmd-an-zhuang-ren-he-fu-wu-duan.md#fu-wu-duan-xia-zai-an-zhuang "mention")
 
 <mark style="color:red;">**请在更新前，确认服务端已经关闭。**</mark>
 
-**快速跳转** [#ruodpan-yi-cun-zai-geng-xin-bat](fu-wu-duan-geng-xin.md#ruodpan-yi-cun-zai-geng-xin-bat "mention") [#ruodpan-bu-cun-zai-ruan-jian](fu-wu-duan-geng-xin.md#ruodpan-bu-cun-zai-ruan-jian "mention")
+**快速跳转** [#ruodpan-yi-cun-zai-geng-xin-bat](fu-wu-duan-an-zhuang-yu-geng-xin.md#ruodpan-yi-cun-zai-geng-xin-bat "mention") [#ruodpan-bu-cun-zai-ruan-jian](fu-wu-duan-an-zhuang-yu-geng-xin.md#ruodpan-bu-cun-zai-ruan-jian "mention")
 
 ## 若D盘已存在更新bat
 
@@ -28,7 +30,7 @@ description: RT
 
 <figure><img src="../../../.gitbook/assets/chrome_Pay9Lgw29J.png" alt=""><figcaption></figcaption></figure>
 
-## 若D盘不存在软件
+## 若D盘不存在更新bat
 
 请先下载`steamcmd`软件本体，只下载个文件即可。 [#xia-zai](../fu-wu-duan-an-zhuang-yu-geng-xin/steamcmd-gong-ju-an-zhuang.md#xia-zai "mention")
 
