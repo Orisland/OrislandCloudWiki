@@ -79,6 +79,7 @@
       * [崩溃自启](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/beng-kui-zi-qi.md)
       * [存档定时备份](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/cun-dang-ding-shi-bei-fen/README.md)
         * [还原备份存档](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/cun-dang-ding-shi-bei-fen/huan-yuan-bei-fen-cun-dang.md)
+      * [定时重启服务端](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/ding-shi-zhong-qi-fu-wu-duan.md)
       * [内存清理](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/nei-cun-qing-li.md)
       * [存档管理](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/cun-dang-guan-li/README.md)
         * [存档替换](you-xi-kai-fu-shuo-ming/steam-xiang-guan/huan-shou-pa-lu/cun-dang-guan-li/cun-dang-ti-huan.md)
