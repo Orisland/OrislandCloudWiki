@@ -12,6 +12,8 @@ description: RT
 
 <mark style="color:red;">**请在更新前，确认服务端已经关闭。**</mark>
 
+_<mark style="color:purple;">**幻兽帕鲁服务端启动需要DX环境，部分服务器内可能未安装，这里提供教程。**</mark>_ [dx12.md](../../../you-xi-huan-jing/dx12.md "mention")
+
 **快速跳转** [#ruodpan-yi-cun-zai-geng-xin-bat](fu-wu-duan-an-zhuang-yu-geng-xin.md#ruodpan-yi-cun-zai-geng-xin-bat "mention") [#ruodpan-bu-cun-zai-geng-xin-bat](fu-wu-duan-an-zhuang-yu-geng-xin.md#ruodpan-bu-cun-zai-geng-xin-bat "mention")
 
 ## 若D盘已存在更新bat
