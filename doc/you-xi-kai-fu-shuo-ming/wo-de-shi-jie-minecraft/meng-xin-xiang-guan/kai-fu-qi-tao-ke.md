@@ -52,7 +52,7 @@ jvm参数配置跳转 [#jvm-can-shu-xiu-gai](kai-fu-qi-tao-ke.md#jvm-can-shu-xiu
 
 <figure><img src="../../../.gitbook/assets/服务器管理_G7d7MfFQeN.png" alt=""><figcaption></figcaption></figure>
 
-务必保存该文件。 [bao-cun.md](../../steam-xiang-guan/qi-ri-sha-7-days-to-die/xi-jie-tiao-zheng/bao-cun.md "mention")
+务必保存该文件。 [bao-cun.md](../../steam-ping-tai/qi-ri-sha-7-days-to-die/xi-jie-tiao-zheng/bao-cun.md "mention")
 
 <figure><img src="../../../.gitbook/assets/Notepad_adyWyGTOCU.png" alt=""><figcaption></figcaption></figure>
 
