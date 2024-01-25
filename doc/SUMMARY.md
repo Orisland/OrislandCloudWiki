@@ -101,6 +101,8 @@
     * [雾锁王国](you-xi-kai-fu-shuo-ming/steam-ping-tai/wu-suo-wang-guo/README.md)
       * [服务端的安装与更新](you-xi-kai-fu-shuo-ming/steam-ping-tai/wu-suo-wang-guo/fu-wu-duan-de-an-zhuang-yu-geng-xin.md)
       * [启动，关闭](you-xi-kai-fu-shuo-ming/steam-ping-tai/wu-suo-wang-guo/qi-dong-guan-bi.md)
+      * [服务端配置](you-xi-kai-fu-shuo-ming/steam-ping-tai/wu-suo-wang-guo/fu-wu-duan-pei-zhi.md)
+      * [服务器加入](you-xi-kai-fu-shuo-ming/steam-ping-tai/wu-suo-wang-guo/fu-wu-qi-jia-ru.md)
     * [人渣 SCUM](you-xi-kai-fu-shuo-ming/steam-ping-tai/ren-zha-scum.md)
     * [雨中冒险2 Risk of Rain 2](you-xi-kai-fu-shuo-ming/steam-ping-tai/yu-zhong-mao-xian-2-risk-of-rain-2.md)
     * [异星工厂 Factorio](you-xi-kai-fu-shuo-ming/steam-ping-tai/yi-xing-gong-chang-factorio.md)
