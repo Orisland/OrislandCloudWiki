@@ -10,7 +10,7 @@ description: 本章用于关闭启动或重启服务端
 
 如果该图标不存在，你可以在服务器的根目录[^1]寻找`PalServer.exe`文件![](<../../../.gitbook/assets/image (49).png>)来启动服务端，但是一般情况下，**不推荐直接启动**，快捷方式中往往配置了一些和服务端有关的相关配置，直接启动会导致这些配置失效。
 
-打开后，出现一个黑色方框(或其他颜色如果你修改过)，没有任何输出这是正常的，这代表着服务端_<mark style="color:red;">**开放完成，**</mark>_[_<mark style="color:red;">**已可以在游戏内连接**</mark>_](#user-content-fn-2)[^2]，当然也可能会出现输出一行字的情况，这也是正常的。
+打开后，出现一个黑色方框(或其他颜色如果你修改过)，_<mark style="color:red;">**没有任何输出这是**</mark><mark style="color:orange;">**正常**</mark><mark style="color:red;">**的**</mark>_，这代表着服务端_<mark style="color:red;">**开放完成，**</mark>_[_<mark style="color:red;">**已可以在游戏内连接**</mark>_](#user-content-fn-2)[^2]，当然也可能会出现输出一行字的情况，这也是正常的。
 
 <figure><img src="../../../.gitbook/assets/mstsc_Cq9pl5dzWg.png" alt=""><figcaption><p>1</p></figcaption></figure>
 
