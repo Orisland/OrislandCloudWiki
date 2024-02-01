@@ -39,3 +39,9 @@ description: 本配置可以对服务器的启动效果产生一些影响
 出现服务器的窗口，查询后端口修改正常，原本的8211变为25565开放。 [tong-guo-duan-kou-zhao-zhan-yong-de-cheng-xu.md](../../../../xi-tong-bian-xie-cao-zuo/tong-guo-duan-kou-zhao-zhan-yong-de-cheng-xu.md "mention")
 
 <figure><img src="../../../../.gitbook/assets/mstsc_bjwCTBncw7.png" alt=""><figcaption></figcaption></figure>
+
+## 推荐配置
+
+建议使用以下配置来启动服务器。
+
+> PalServer.exe -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS
