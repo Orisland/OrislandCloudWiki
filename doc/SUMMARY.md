@@ -82,6 +82,7 @@
       * [存档定时备份](you-xi-kai-fu-shuo-ming/steam-ping-tai/huan-shou-pa-lu/cun-dang-ding-shi-bei-fen/README.md)
         * [还原备份存档](you-xi-kai-fu-shuo-ming/steam-ping-tai/huan-shou-pa-lu/cun-dang-ding-shi-bei-fen/huan-yuan-bei-fen-cun-dang.md)
       * [存档管理](you-xi-kai-fu-shuo-ming/steam-ping-tai/huan-shou-pa-lu/cun-dang-guan-li/README.md)
+        * [存档位置](you-xi-kai-fu-shuo-ming/steam-ping-tai/huan-shou-pa-lu/cun-dang-guan-li/cun-dang-wei-zhi.md)
         * [存档替换](you-xi-kai-fu-shuo-ming/steam-ping-tai/huan-shou-pa-lu/cun-dang-guan-li/cun-dang-ti-huan.md)
         * [重开](you-xi-kai-fu-shuo-ming/steam-ping-tai/huan-shou-pa-lu/cun-dang-guan-li/zhong-kai.md)
     * [七日杀 7 Days to Die](you-xi-kai-fu-shuo-ming/steam-ping-tai/qi-ri-sha-7-days-to-die/README.md)

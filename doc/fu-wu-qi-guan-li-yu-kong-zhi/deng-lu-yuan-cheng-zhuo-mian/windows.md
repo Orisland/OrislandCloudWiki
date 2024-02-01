@@ -16,7 +16,7 @@ description: 本教程为Windows连接。
 
 ### 方法2
 
-单机你的Windows按钮![](<../../.gitbook/assets/image (7) (1) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)，根据系统来进行图示操作寻找远程桌面程序并打开。
+单机你的Windows按钮![](<../../.gitbook/assets/image (7) (1) (1).png>) 或 ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)，根据系统来进行图示操作寻找远程桌面程序并打开。
 
 Win11：
 
@@ -30,7 +30,7 @@ Win10：
 
 窗口出现后，单机显示选项。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 计算机栏目应填入客服提供的ip，_<mark style="color:red;">**请注意ip的组成应为“域名:端口”的形式**</mark>_，其中，域名为一串英文字母，端口为数字，冒号为英文冒号，_<mark style="color:red;">**ip格式例如 xxx.orisland.top:11451**</mark>_。
 
