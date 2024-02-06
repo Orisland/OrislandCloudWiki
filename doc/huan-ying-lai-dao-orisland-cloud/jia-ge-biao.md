@@ -20,7 +20,7 @@ description: 续费，开机，扩容以当日最新价格为准。
 
 套餐C 7900X / 7950X   主频4.7Ghz-5.6Ghz
 
-<table data-full-width="true"><thead><tr><th width="119.46307385229542">套餐</th><th width="97">逻辑核心</th><th width="70">运存</th><th width="86">端口数</th><th width="84">硬盘</th><th width="110">月结定价</th><th>网络</th></tr></thead><tbody><tr><td>双核</td><td>2</td><td>4</td><td>1</td><td>20+20</td><td>49</td><td>上25Mbps下25Mbps<br></td></tr><tr><td>双核plus</td><td>2</td><td>6</td><td>1</td><td>20+20</td><td>59</td><td></td></tr><tr><td>三核</td><td>3</td><td>6</td><td>1</td><td>20+30</td><td>99</td><td></td></tr><tr><td>三核plus</td><td>3</td><td>8</td><td>1</td><td>20+30</td><td>129</td><td></td></tr><tr><td>四核</td><td>4</td><td>8</td><td>2</td><td>20+40</td><td>149</td><td></td></tr><tr><td>四核plus</td><td>4</td><td>10</td><td>2</td><td>20+40</td><td>169</td><td></td></tr><tr><td>DIY</td><td></td><td></td><td></td><td></td><td></td><td>具体配置和价格需额外计算</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="119.46307385229542">套餐</th><th width="97">逻辑核心</th><th width="70">运存</th><th width="86">端口数</th><th width="84">硬盘</th><th width="110">月结定价</th><th>网络</th></tr></thead><tbody><tr><td>双核</td><td>2</td><td>4</td><td>1</td><td>20+20</td><td>49</td><td>上25Mbps下25Mbps<br></td></tr><tr><td>双核plus</td><td>2</td><td>6</td><td>1</td><td>20+20</td><td>59</td><td></td></tr><tr><td>三核</td><td>3</td><td>6</td><td>1</td><td>20+30</td><td>89</td><td></td></tr><tr><td>三核plus</td><td>3</td><td>8</td><td>1</td><td>20+30</td><td>119</td><td></td></tr><tr><td>四核</td><td>4</td><td>8</td><td>2</td><td>20+40</td><td>139</td><td></td></tr><tr><td>四核plus</td><td>4</td><td>10</td><td>2</td><td>20+40</td><td>159</td><td></td></tr><tr><td>DIY</td><td></td><td></td><td></td><td></td><td></td><td>具体配置和价格需额外计算</td></tr></tbody></table>
 
 套餐D 13900K 关小核仅P核5.7G
 
@@ -28,7 +28,7 @@ description: 续费，开机，扩容以当日最新价格为准。
 
 套餐外DIY额外配置购买价格，您应该首先考虑套餐内的升级以实现最便宜的价格。
 
-<table data-full-width="false"><thead><tr><th width="114">套餐序号</th><th width="98">CPU</th><th width="102">内存</th><th width="95">硬盘</th><th width="101">带宽</th><th>端口</th></tr></thead><tbody><tr><td>A</td><td>10</td><td>10</td><td>1</td><td>5</td><td>10</td></tr><tr><td>B</td><td>15</td><td>25</td><td>1</td><td>5</td><td>10</td></tr><tr><td>C</td><td>15</td><td>25</td><td>1</td><td>5</td><td>10</td></tr><tr><td>D</td><td>30</td><td>15</td><td>1</td><td>5</td><td>10</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="114">套餐序号</th><th width="98">CPU</th><th width="102">内存</th><th width="95">硬盘</th><th width="101">带宽</th><th>端口</th></tr></thead><tbody><tr><td>A</td><td>10</td><td>10</td><td>1</td><td>5</td><td>10</td></tr><tr><td>B</td><td>15</td><td>20</td><td>1</td><td>5</td><td>10</td></tr><tr><td>C</td><td>15</td><td>20</td><td>1</td><td>5</td><td>10</td></tr><tr><td>D</td><td>30</td><td>15</td><td>1</td><td>5</td><td>10</td></tr></tbody></table>
 
 ***
 
