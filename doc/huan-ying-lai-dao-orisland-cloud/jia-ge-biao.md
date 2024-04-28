@@ -28,20 +28,24 @@ description: 续费，开机，扩容以当日最新价格为准。
 
 套餐外DIY额外配置购买价格，您应该首先考虑套餐内的升级以实现最便宜的价格。
 
-<table data-full-width="false"><thead><tr><th width="114">套餐序号</th><th width="98">CPU</th><th width="102">内存</th><th width="95">硬盘</th><th width="101">带宽</th><th>端口</th></tr></thead><tbody><tr><td>A</td><td>10</td><td>10</td><td>1</td><td>5</td><td>10</td></tr><tr><td>B</td><td>15</td><td>20</td><td>1</td><td>5</td><td>10</td></tr><tr><td>C</td><td>15</td><td>20</td><td>1</td><td>5</td><td>10</td></tr><tr><td>D</td><td>30</td><td>15</td><td>1</td><td>5</td><td>10</td></tr></tbody></table>
+### DIY套餐外套餐价格
+
+<table data-full-width="false"><thead><tr><th width="114">套餐</th><th width="98">CPU/个</th><th width="102">内存/G</th><th width="95">硬盘/G</th><th width="121">带宽/Mbps</th><th>端口/个</th></tr></thead><tbody><tr><td>7502</td><td>10</td><td>10</td><td>1</td><td>5</td><td>10</td></tr><tr><td>5950</td><td>15</td><td>15</td><td>1</td><td>5</td><td>10</td></tr><tr><td>7950</td><td>15</td><td>20</td><td>1</td><td>5</td><td>10</td></tr><tr><td>13900K</td><td>30</td><td>15</td><td>1</td><td>5</td><td>10</td></tr></tbody></table>
 
 ***
 
 ## 独特游戏专项
 
+本项一般随服务器租赁赠送服务，价格为单独服务。
+
 ### MC
 
-| 项目              | 价格 | 备注                  |
-| --------------- | -- | ------------------- |
-| 纯净              | 8  | 任意核心，任意版本           |
-| mod服务端          | 15 | 前提为服务端本身没有问题        |
-| mod客户端转服务端(↓搭配) | 30 | 不对可能产生的后果负责         |
-| 服务端排错           | 20 | 若mod转服务端出错需要额外支付本项目 |
+| 项目              | 价格  | 备注                  |
+| --------------- | --- | ------------------- |
+| 纯净              | 5   | 任意核心，任意版本           |
+| mod服务端          | 9.9 | 前提为服务端本身没有问题        |
+| mod客户端转服务端(↓搭配) | 30  | 不对可能产生的后果负责         |
+| 服务端排错           | 20  | 若mod转服务端出错需要额外支付本项目 |
 
 ### 七日杀
 
