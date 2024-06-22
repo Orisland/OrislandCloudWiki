@@ -17,6 +17,7 @@
     * [虚拟篇](huan-ying-lai-dao-orisland-cloud/zhu-yi-shi-xiang/xu-ni-pian.md)
   * [店铺](huan-ying-lai-dao-orisland-cloud/dian-pu.md)
   * [答疑](huan-ying-lai-dao-orisland-cloud/da-yi.md)
+  * [禁止事项](huan-ying-lai-dao-orisland-cloud/jin-zhi-shi-xiang.md)
 * [资源站](zi-yuan-zhan.md)
 * [服务器管理与控制](fu-wu-qi-guan-li-yu-kong-zhi/README.md)
   * [登陆远程桌面](fu-wu-qi-guan-li-yu-kong-zhi/deng-lu-yuan-cheng-zhuo-mian/README.md)
