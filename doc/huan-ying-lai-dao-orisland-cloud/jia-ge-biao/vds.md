@@ -8,13 +8,17 @@ description: 独占式虚拟专用服务器，提供核心绝对性能
 
 不采用定频机制，关闭超线程，核心独占，追求绝对性能和稳定性。
 
-## 套餐B 5950X   主频3.4Ghz-4.9Ghz
+## 套餐B 5950X AMD
+
+主频3.4Ghz-4.9Ghz
 
 性能CPU-Z参考分：610
 
 <table data-full-width="false"><thead><tr><th width="90.46307385229542">套餐</th><th width="94">物理核心</th><th width="71">运存</th><th width="82">端口数</th><th width="85">硬盘</th><th width="112">月结定价</th><th>网络</th></tr></thead><tbody><tr><td>双核</td><td>2</td><td>4</td><td>1</td><td>20+20</td><td>79</td><td>20Mbps</td></tr><tr><td>双核p</td><td>2</td><td>6</td><td>1</td><td>20+20</td><td>89</td><td></td></tr><tr><td>四核</td><td>4</td><td>8</td><td>2</td><td>20+40</td><td>129</td><td></td></tr><tr><td>四核p</td><td>4</td><td>10</td><td>2</td><td>20+40</td><td>139</td><td></td></tr><tr><td>六核</td><td>6</td><td>10</td><td>3</td><td>20+40</td><td>169</td><td></td></tr><tr><td>六核p</td><td>6</td><td>16</td><td>4</td><td>20+60</td><td>199</td><td></td></tr><tr><td>DIY</td><td></td><td></td><td></td><td></td><td></td><td>独立计算折扣</td></tr></tbody></table>
 
-## 套餐C 7950X   主频4.7Ghz-5.6Ghz
+## 套餐C 7950X AMD
+
+主频4.7Ghz-5.6Ghz
 
 性能CPU-Z参考分：710
 
