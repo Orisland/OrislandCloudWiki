@@ -1,7 +1,8 @@
 # Table of contents
 
 * [欢迎来到Orisland Cloud](README.md)
-  * [价格表](huan-ying-lai-dao-orisland-cloud/jia-ge-biao.md)
+  * [价格表](huan-ying-lai-dao-orisland-cloud/jia-ge-biao/README.md)
+    * [VPS](huan-ying-lai-dao-orisland-cloud/jia-ge-biao/vps.md)
   * [配置预览](huan-ying-lai-dao-orisland-cloud/pei-zhi-yu-lan.md)
   * [注意事项](huan-ying-lai-dao-orisland-cloud/zhu-yi-shi-xiang/README.md)
     * [价格篇](huan-ying-lai-dao-orisland-cloud/zhu-yi-shi-xiang/jia-ge-pian.md)
