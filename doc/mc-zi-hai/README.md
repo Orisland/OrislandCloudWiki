@@ -192,7 +192,7 @@ AMD Ryzen 9 7950X，或Intel i9 13900K 非租赁服务器。
 
 **● 我也想开自己的服务器。**
 
-[jia-ge-biao](../huan-ying-lai-dao-orisland-cloud/jia-ge-biao/ "mention")
+[jia-ge-biao.md](../huan-ying-lai-dao-orisland-cloud/jia-ge-biao.md "mention")
 
 **● 有什么群规吗？**
 
