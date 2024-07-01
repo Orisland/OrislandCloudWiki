@@ -6,8 +6,12 @@ description: 本文将介绍如何为七日杀服务端安装mod
 
 请记录下面的地址，所有的mod都应尽量从这些论坛中获取，不建议使用第三方经过二次修改的mod，这些mod可能造成安全问题。
 
+{% embed url="https://7risi.com/1" %}
+七日杀1.0
+{% endembed %}
+
 {% embed url="https://7risi.com/a21" %}
-七日杀中文站
+七日杀A21
 {% endembed %}
 
 {% embed url="https://dl.3dmgame.com/patch/7dtda21mod_21_time.html" %}
