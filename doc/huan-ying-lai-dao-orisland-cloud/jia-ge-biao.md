@@ -16,7 +16,7 @@ description: 续费，开机，扩容以当日最新价格为准。
 
 ### [VDS 独占式虚拟专用服务器](jia-ge-biao/vds.md)
 
-### [物理机](jia-ge-biao.md#wu-li-ji)
+### [物理机](jia-ge-biao/wu-li-ji.md)
 
 ### [具体游戏专项](jia-ge-biao.md#ju-ti-you-xi-zhuan-xiang)
 
