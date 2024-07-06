@@ -34,7 +34,7 @@ Win10：
 
 计算机栏目应填入客服提供的ip，_<mark style="color:red;">**请注意ip的组成应为“域名:端口”的形式**</mark>_，其中，域名为一串英文字母，端口为数字，冒号为英文冒号，_<mark style="color:red;">**ip格式例如 xxx.orisland.top:11451**</mark>_。
 
-用户名必须填写为_<mark style="color:red;">**Administrator**</mark>_，_<mark style="color:red;">**不可空置或不填**</mark>_。
+用户名<mark style="color:red;">**必须进行修改**</mark>，具体以客服发的登录信息为准，_<mark style="color:red;">**不可空置或不填**</mark>_。
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
