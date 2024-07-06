@@ -18,6 +18,6 @@ description: 续费，开机，扩容以当日最新价格为准。
 
 ### [物理机](jia-ge-biao/wu-li-ji.md)
 
-### [具体游戏专项](jia-ge-biao.md#ju-ti-you-xi-zhuan-xiang)
+### [具体游戏专项](jia-ge-biao/ju-ti-you-xi-zhuan-xiang.md)
 
 ***
