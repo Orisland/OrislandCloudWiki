@@ -105,7 +105,7 @@
     * [泰拉瑞亚 Terraria](you-xi-kai-fu-shuo-ming/steam-ping-tai/tai-la-rui-ya-terraria/README.md)
       * [tmod](you-xi-kai-fu-shuo-ming/steam-ping-tai/tai-la-rui-ya-terraria/tmod.md)
       * [原版](you-xi-kai-fu-shuo-ming/steam-ping-tai/tai-la-rui-ya-terraria/yuan-ban.md)
-      * [Page](you-xi-kai-fu-shuo-ming/steam-ping-tai/tai-la-rui-ya-terraria/page.md)
+      * [加入游戏](you-xi-kai-fu-shuo-ming/steam-ping-tai/tai-la-rui-ya-terraria/jia-ru-you-xi.md)
     * [僵尸毁灭工程 Project Zomboid](you-xi-kai-fu-shuo-ming/steam-ping-tai/jiang-shi-hui-mie-gong-cheng-project-zomboid.md)
     * [饥荒 Don’t Starve](you-xi-kai-fu-shuo-ming/steam-ping-tai/ji-huang-dont-starve/README.md)
       * [关闭服务端](you-xi-kai-fu-shuo-ming/steam-ping-tai/ji-huang-dont-starve/guan-bi-fu-wu-duan.md)
