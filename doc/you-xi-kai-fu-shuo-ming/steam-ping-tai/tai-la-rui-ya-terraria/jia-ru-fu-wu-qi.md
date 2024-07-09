@@ -4,7 +4,7 @@ description: 本章用于说明如何加入在线的服务器
 
 # 加入服务器
 
-请进行本文之前，请确保服务度端处于开放状态。 [tmod.md](tmod.md "mention") [yuan-ban.md](yuan-ban.md "mention")
+请进行本文之前，请确保服务度端处于开放状态。 [tmod](tmod/ "mention") [yuan-ban.md](yuan-ban.md "mention")
 
 ## 版本确认
 

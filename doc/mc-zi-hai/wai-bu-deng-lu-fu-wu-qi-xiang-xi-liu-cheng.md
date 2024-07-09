@@ -24,17 +24,17 @@ QQ群：[MC自嗨群](https://jq.qq.com/?\_wv=1027\&k=Q0jvcE5u)
 
 这里以第六周目为例。
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 如果没有请手动添加这个：
 
 > [http://v4.orisland.top:9090/api/yggdrasil](https://v4.orisland.top:9090/api/yggdrasil)
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 到我站注册自己的账号。
 
@@ -46,11 +46,11 @@ QQ群：[MC自嗨群](https://jq.qq.com/?\_wv=1027\&k=Q0jvcE5u)
 
 如果该验证依然出现了严重的超时问题请看看上面的那个解决链接。
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 如果出现链接认证服务器失败的错误请反复尝试，最好的检测办法是尝试访问上面的我站地址。
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>.</p></figcaption></figure>
 
 完成！用该用户进行游戏。
 
