@@ -8,7 +8,7 @@
 
 不提供，真的需要可以提供付费帮助。
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 ● 我可以开其他游戏的服务器吗？
 

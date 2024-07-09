@@ -8,4 +8,4 @@ description: 用于存档管理
 
 对存档的所有操作请对这个目录进行。
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
