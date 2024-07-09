@@ -77,6 +77,8 @@ description: 本文介绍tmod版本泰拉瑞亚服务端的说明
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
+### 启动服务端
+
 选择1，回车启动世界。
 
 配置服务器最大人数，如果不输入，则默认16
