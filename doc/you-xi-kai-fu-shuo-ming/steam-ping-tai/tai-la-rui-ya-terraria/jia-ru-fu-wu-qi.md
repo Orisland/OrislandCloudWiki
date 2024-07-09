@@ -2,7 +2,7 @@
 description: 本章用于说明如何加入在线的服务器
 ---
 
-# 加入游戏
+# 加入服务器
 
 请进行本文之前，请确保服务度端处于开放状态。 [tmod.md](tmod.md "mention") [yuan-ban.md](yuan-ban.md "mention")
 
@@ -28,13 +28,20 @@ description: 本章用于说明如何加入在线的服务器
 
 <figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
-输入服务器的ip地址，格式为xxxx.xxx.xxx
+如果此时，你收到的地址是这种格式，请注意拆分，应以冒号进行拆分隔开，前方为ip，后方为端口，在加入服务器时需要分开输入。
+
+xxxxx.yyyy.zzz:ttttt
+
+* xxxxx.yyyy.zzz
+* ttttt
+
+输入服务器的ip地址，格式为xxxxx.yyyy.zzz
 
 使用全英文输入，以实际为准。
 
 <figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
-回车后显示输入端口，输入服务器的泰拉瑞亚启动的端口号，默认为7777，实际一般都通过了不同端口的转发，以服务器的信息为准，一般端口都不是默认7777.
+回车后显示输入端口，输入服务器的泰拉瑞亚启动的端口号，默认为7777，实际一般都通过了不同端口的转发，以服务器的信息为准，一般端口都不是默认7777，以上方提到的加入方式，这里应该填入ttttt。
 
 输入完成后，单机接受，如果服务端和本地的游戏版本匹配，则游戏正常连入。
 
