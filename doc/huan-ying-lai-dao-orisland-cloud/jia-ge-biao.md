@@ -12,12 +12,14 @@ description: 续费，开机，扩容以当日最新价格为准。
 
 单机下列选项卡进行**跳转**。
 
-### [VPS 共享式虚拟专用服务器](jia-ge-biao/vps.md)
+### [VPS 虚拟专用服务器](jia-ge-biao/vps.md)
 
-### [VDS 独占式虚拟专用服务器](jia-ge-biao/vds.md)
+### [VDS 虚拟独立服务器](jia-ge-biao/vds.md)
 
 ### [物理机](jia-ge-biao/wu-li-ji.md)
 
 ### [具体游戏专项](jia-ge-biao/ju-ti-you-xi-zhuan-xiang.md)
+
+
 
 ***

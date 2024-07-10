@@ -1,10 +1,10 @@
 ---
-description: 共享式虚拟专用服务器，尽可能提供所需的性能
+description: 虚拟专用服务器，尽可能提供所需的性能
 ---
 
 # VPS
 
-<mark style="background-color:blue;">**性能最大波动约为20%左右。**</mark>
+<mark style="background-color:blue;">**性能**</mark><mark style="color:orange;background-color:blue;">**最大**</mark><mark style="background-color:blue;">**波动约为20%左右。**</mark>
 
 ## 套餐A 7502 Epyc&#x20;
 
