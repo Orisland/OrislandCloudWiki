@@ -109,7 +109,7 @@
       * [加入服务器](you-xi-kai-fu-shuo-ming/steam-ping-tai/tai-la-rui-ya-terraria/jia-ru-fu-wu-qi.md)
     * [僵尸毁灭工程 Project Zomboid](you-xi-kai-fu-shuo-ming/steam-ping-tai/jiang-shi-hui-mie-gong-cheng-project-zomboid.md)
     * [饥荒 Don’t Starve](you-xi-kai-fu-shuo-ming/steam-ping-tai/ji-huang-dont-starve/README.md)
-      * [关闭服务端](you-xi-kai-fu-shuo-ming/steam-ping-tai/ji-huang-dont-starve/guan-bi-fu-wu-duan.md)
+      * [端口配置](you-xi-kai-fu-shuo-ming/steam-ping-tai/ji-huang-dont-starve/duan-kou-pei-zhi.md)
     * [雾锁王国](you-xi-kai-fu-shuo-ming/steam-ping-tai/wu-suo-wang-guo/README.md)
       * [服务端的安装与更新](you-xi-kai-fu-shuo-ming/steam-ping-tai/wu-suo-wang-guo/fu-wu-duan-de-an-zhuang-yu-geng-xin.md)
       * [启动，关闭](you-xi-kai-fu-shuo-ming/steam-ping-tai/wu-suo-wang-guo/qi-dong-guan-bi.md)
